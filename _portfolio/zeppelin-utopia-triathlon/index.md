@@ -5,4 +5,4 @@ subtext: "Audio Installation. PVC, air liquide, reel-to-reel machines. as part o
 image: "/uploads/2016/02/Zeppelin.jpg"
 ---
 
-![Zeppelin](/uploads/2016/02/Zeppelin.jpg)
+![Zeppelin]({{ site.baseurl }}/uploads/2016/02/Zeppelin.jpg)

@@ -14,10 +14,10 @@ Material: powdercoated metal
 Size: 20x3x100cm  
 1200 EUR
 
-![y](/uploads/2020/04/521C18CB-1D2A-43B7-AD28-6858F14E000E_web.jpg)
+![y]({{ site.baseurl }}/uploads/2020/04/521C18CB-1D2A-43B7-AD28-6858F14E000E_web.jpg)
 
-![y](/uploads/2020/04/IMG_6830_wweb.jpg)
+![y]({{ site.baseurl }}/uploads/2020/04/IMG_6830_wweb.jpg)
 
-![y](/uploads/2020/04/IMG_6829.jpg)
+![y]({{ site.baseurl }}/uploads/2020/04/IMG_6829.jpg)
 
 Munich artist Emanuel Mooner / Neon Artist, Neon Art

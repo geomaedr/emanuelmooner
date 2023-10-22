@@ -14,10 +14,10 @@ material: wood, latex, paint
 
 price 800 EUR
 
-![Crash Door](/uploads/2018/10/DSC_0101.jpg)
+![Crash Door]({{ site.baseurl }}/uploads/2018/10/DSC_0101.jpg)
 
-![Crash Door](/uploads/2018/10/DSC_0103.jpg)
+![Crash Door]({{ site.baseurl }}/uploads/2018/10/DSC_0103.jpg)
 
-![Crash Door](/uploads/2018/10/DSC_0097.jpg)
+![Crash Door]({{ site.baseurl }}/uploads/2018/10/DSC_0097.jpg)
 
-![Crash Door](/uploads/2018/10/DSC_0123.jpg)
+![Crash Door]({{ site.baseurl }}/uploads/2018/10/DSC_0123.jpg)

@@ -13,12 +13,12 @@ SOLD
 
 shown at Light/House, München 2020
 
-![y](/uploads/2019/12/Emanuel_Mooner_Austellung122019DSC_3863.jpg)
+![y]({{ site.baseurl }}/uploads/2019/12/Emanuel_Mooner_Austellung122019DSC_3863.jpg)
 
-![x](/uploads/2019/12/Emanuel_Mooner_Austellung122019DSC_3862.jpg)
+![x]({{ site.baseurl }}/uploads/2019/12/Emanuel_Mooner_Austellung122019DSC_3862.jpg)
 
-![x](/uploads/2019/12/P1010188.jpg)
+![x]({{ site.baseurl }}/uploads/2019/12/P1010188.jpg)
 
-![x](/uploads/2019/12/P1010190.jpg)
+![x]({{ site.baseurl }}/uploads/2019/12/P1010190.jpg)
 
 Munich artist Emanuel Mooner / Neon Artist, Neon Art

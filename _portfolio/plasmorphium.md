@@ -15,6 +15,6 @@ moving kinetic object
 
 price 1200 EUR
 
-![Crash Door](/uploads/2018/10/DSC_0156.jpg)
+![Crash Door]({{ site.baseurl }}/uploads/2018/10/DSC_0156.jpg)
 
 <video class="wp-video-shortcode" id="video-1062-1" width="480" height="270" preload="metadata" controls="controls"><source type="video/mp4" src="https://www.emanuelmooner.com/wp-content/uploads/2018/10/plasmonics2.m4v?_=1">[https://www.emanuelmooner.com/wp-content/uploads/2018/10/plasmonics2.m4v](https://www.emanuelmooner.com/wp-content/uploads/2018/10/plasmonics2.m4v)</video>

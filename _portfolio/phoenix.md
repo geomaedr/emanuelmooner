@@ -13,8 +13,8 @@ Phoenix
 
 shown at Light/House, München 2020
 
-![y](/uploads/2019/12/P1010155-e1576499423735.jpg)
+![y]({{ site.baseurl }}/uploads/2019/12/P1010155-e1576499423735.jpg)
 
-![y](/uploads/2019/12/P1010160-e1576499497137.jpg)
+![y]({{ site.baseurl }}/uploads/2019/12/P1010160-e1576499497137.jpg)
 
 Munich artist Emanuel Mooner / Neon Artist, Neon Art

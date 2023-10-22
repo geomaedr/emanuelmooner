@@ -15,10 +15,10 @@ Mooner used fresh beech wood, which is not dry yet, so in the process of melting
 Distinctive is the color neon-orange, a reference to ambulances, fire engines, and simply as a signal color for warnings and danger.  
 The wood is planed and oiled to resist water and abrasion.
 
-![y](/uploads/2020/04/P1010303.jpg)
+![y]({{ site.baseurl }}/uploads/2020/04/P1010303.jpg)
 
-![c](/uploads/2020/04/P1010305.jpg)
+![c]({{ site.baseurl }}/uploads/2020/04/P1010305.jpg)
 
-![c](/uploads/2020/04/P1010304.jpg)
+![c]({{ site.baseurl }}/uploads/2020/04/P1010304.jpg)
 
 Munich artist Emanuel Mooner / Neon Artist, Neon Art

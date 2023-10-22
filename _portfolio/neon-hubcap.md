@@ -18,13 +18,13 @@ Material: powdercoated metal, spraypaint, diamond cut lights
 Size: 60x90cm  
 price on request (please use the mail below;)
 
-![y](/uploads/2020/11/P1020576-Kopie.jpg)
+![y]({{ site.baseurl }}/uploads/2020/11/P1020576-Kopie.jpg)
 
-![y](/uploads/2020/11/P1020580-Kopie.jpg)
+![y]({{ site.baseurl }}/uploads/2020/11/P1020580-Kopie.jpg)
 
-![y](/uploads/2020/11/P1020581-Kopie.jpg)
+![y]({{ site.baseurl }}/uploads/2020/11/P1020581-Kopie.jpg)
 
-![y](/uploads/2020/11/P1020582-Kopie.jpg)
+![y]({{ site.baseurl }}/uploads/2020/11/P1020582-Kopie.jpg)
 
 (C) Munich artist Emanuel Mooner / Neon Artist, Neon Art
 

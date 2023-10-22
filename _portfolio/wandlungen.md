@@ -16,12 +16,12 @@ Mooner widmet sich einmal mehr dem Mikrokosmos: Er macht die Pflanze als Lebewes
 
 **VIDEO:**[](https://youtu.be/JSmXigFV89c)
 
-[![y](/uploads/2020/06/Bildschirmfoto-2020-06-25-um-10.06.53.png)](https://youtu.be/JSmXigFV89c)
+[![y]({{ site.baseurl }}/uploads/2020/06/Bildschirmfoto-2020-06-25-um-10.06.53.png)](https://youtu.be/JSmXigFV89c)
 
-![y](/uploads/2020/06/IMG_8460-e1593447100724.jpg)
+![y]({{ site.baseurl }}/uploads/2020/06/IMG_8460-e1593447100724.jpg)
 
-![y](/uploads/2020/06/IMG_8461-e1593447186818.jpg)
+![y]({{ site.baseurl }}/uploads/2020/06/IMG_8461-e1593447186818.jpg)
 
-![y](/uploads/2020/06/IMG_8473-e1594025214446.jpg)
+![y]({{ site.baseurl }}/uploads/2020/06/IMG_8473-e1594025214446.jpg)
 
 Munich artist Emanuel Mooner / Neon Artist, Neon Art

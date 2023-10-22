@@ -14,8 +14,8 @@ material: tinted yellow and pink neonglass
 
 price 1200 EUR
 
-![Crash Door](/uploads/2018/10/DSC_0129.jpg)
+![Crash Door]({{ site.baseurl }}/uploads/2018/10/DSC_0129.jpg)
 
-![Crash Door](/uploads/2018/10/DSC_0078.jpg)
+![Crash Door]({{ site.baseurl }}/uploads/2018/10/DSC_0078.jpg)
 
-![Crash Door](/uploads/2018/10/DSC_0113.jpg)
+![Crash Door]({{ site.baseurl }}/uploads/2018/10/DSC_0113.jpg)

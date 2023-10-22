@@ -27,17 +27,17 @@ Stillgelegten Orte sind seit langem Ausgangspunkt der Arbeiten Emanuel Mooners:S
 
 More Info via mail or want to join the newsletter? please use the mail below;
 
-![y](/uploads/2021/05/P1030036.jpg)
+![y]({{ site.baseurl }}/uploads/2021/05/P1030036.jpg)
 
- ![y](/uploads/2021/05/P1030038.jpg)
+ ![y]({{ site.baseurl }}/uploads/2021/05/P1030038.jpg)
 
- ![y](/uploads/2021/05/P1030039.jpg)
+ ![y]({{ site.baseurl }}/uploads/2021/05/P1030039.jpg)
 
- ![y](/uploads/2021/05/P1030045.jpg)
+ ![y]({{ site.baseurl }}/uploads/2021/05/P1030045.jpg)
 
- ![y](/uploads/2021/05/P1030052.jpg)
+ ![y]({{ site.baseurl }}/uploads/2021/05/P1030052.jpg)
 
- ![y](/uploads/2021/05/P1030050.jpg)
+ ![y]({{ site.baseurl }}/uploads/2021/05/P1030050.jpg)
 
 (C) Munich artist Emanuel Mooner / Neon Artist, Neon Art
 

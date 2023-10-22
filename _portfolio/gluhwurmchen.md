@@ -13,10 +13,10 @@ blue tinted neon glass (four parts)
 
 price 900 EUR
 
-![Crash Door](/uploads/2018/10/DSC_0070.jpg)
+![Crash Door]({{ site.baseurl }}/uploads/2018/10/DSC_0070.jpg)
 
-![Crash Door](/uploads/2018/10/DSC_0053.jpg)
+![Crash Door]({{ site.baseurl }}/uploads/2018/10/DSC_0053.jpg)
 
-![Crash Door](/uploads/2018/10/DSC_0090.jpg)
+![Crash Door]({{ site.baseurl }}/uploads/2018/10/DSC_0090.jpg)
 
-![Crash Door](/uploads/2018/10/DSC_0113.jpg)
+![Crash Door]({{ site.baseurl }}/uploads/2018/10/DSC_0113.jpg)

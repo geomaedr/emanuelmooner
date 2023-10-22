@@ -13,12 +13,12 @@ Price: 1200 EUR
 
 shown at Light/House, München 2020
 
-![y](/uploads/2019/12/Emanuel_Mooner_Austellung122019DSC_3810.jpg)
+![y]({{ site.baseurl }}/uploads/2019/12/Emanuel_Mooner_Austellung122019DSC_3810.jpg)
 
-![x](/uploads/2019/12/Emanuel_Mooner_Austellung122019DSC_3817.jpg)
+![x]({{ site.baseurl }}/uploads/2019/12/Emanuel_Mooner_Austellung122019DSC_3817.jpg)
 
-![c](/uploads/2019/12/Emanuel_Mooner_Austellung122019DSC_3817a.jpg)
+![c]({{ site.baseurl }}/uploads/2019/12/Emanuel_Mooner_Austellung122019DSC_3817a.jpg)
 
-![c](/uploads/2019/12/Emanuel_Mooner_Austellung122019DSC_3815.jpg)
+![c]({{ site.baseurl }}/uploads/2019/12/Emanuel_Mooner_Austellung122019DSC_3815.jpg)
 
 Munich artist Emanuel Mooner / Neon Artist, Neon Art

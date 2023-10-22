@@ -21,12 +21,12 @@ Material: glass, wood, sand, stone, plastic
 Size: 30x30x40cm  
 900 EUR
 
-![y](/uploads/2020/04/IMG_6617_web.jpg)
+![y]({{ site.baseurl }}/uploads/2020/04/IMG_6617_web.jpg)
 
-![y](/uploads/2020/04/IMG_6615_web.jpg)
+![y]({{ site.baseurl }}/uploads/2020/04/IMG_6615_web.jpg)
 
-![y](/uploads/2020/04/IMG_6614_web.jpg)
+![y]({{ site.baseurl }}/uploads/2020/04/IMG_6614_web.jpg)
 
-![y](/uploads/2020/04/IMG_6613_web.jpg)
+![y]({{ site.baseurl }}/uploads/2020/04/IMG_6613_web.jpg)
 
 Munich artist Emanuel Mooner / Neon Artist, Neon Art

@@ -14,15 +14,15 @@ wood, carpet, misc. refugee litter, custom made neonglass
 
 _SOLD_
 
-![Crash Door](/uploads/2017/11/IMG_7204.jpg)
+![Crash Door]({{ site.baseurl }}/uploads/2017/11/IMG_7204.jpg)
 
-![Crash Door](/uploads/2017/11/IMG_7202-e1509964415498.jpg)
+![Crash Door]({{ site.baseurl }}/uploads/2017/11/IMG_7202-e1509964415498.jpg)
 
 <div class="wp-playlist wp-video-playlist wp-playlist-light">
 
 <noscript>
 
-1.  [IMG_7201](/uploads/2017/11/IMG_7201.mov)
+1.  [IMG_7201]({{ site.baseurl }}/uploads/2017/11/IMG_7201.mov)
 
 </noscript>
 

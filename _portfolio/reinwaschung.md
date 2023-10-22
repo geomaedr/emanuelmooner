@@ -27,11 +27,11 @@ You can support this artist-financed project!
 
 More Info via mail or want to join the newsletter? please use the mail below;)
 
-![y](/uploads/2022/09/P1030263_small.jpeg)
+![y]({{ site.baseurl }}/uploads/2022/09/P1030263_small.jpeg)
 
-![y](/uploads/2022/09/P1030167_small.jpeg) 
+![y]({{ site.baseurl }}/uploads/2022/09/P1030167_small.jpeg) 
 
-![y](/uploads/2022/09/P1030183_small.jpeg)
+![y]({{ site.baseurl }}/uploads/2022/09/P1030183_small.jpeg)
 
 (C) Munich artist Emanuel Mooner / Neon Artist, Neon Art
 

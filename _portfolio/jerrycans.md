@@ -16,12 +16,12 @@ Material: powdercoated metal, neon system,
 Size: ca 60x40cm  
 price on request (please use the mail below;)
 
-![y](/uploads/2020/04/image6.jpeg)
+![y]({{ site.baseurl }}/uploads/2020/04/image6.jpeg)
 
-![y](/uploads/2020/04/image12.jpeg)
+![y]({{ site.baseurl }}/uploads/2020/04/image12.jpeg)
 
-![y](/uploads/2020/04/C125853E-6DB8-44E6-990C-072F80A355E2.jpg)
+![y]({{ site.baseurl }}/uploads/2020/04/C125853E-6DB8-44E6-990C-072F80A355E2.jpg)
 
-![y](/uploads/2020/04/2BC2DF72-90D8-45F8-97F8-805337810E52.jpg)
+![y]({{ site.baseurl }}/uploads/2020/04/2BC2DF72-90D8-45F8-97F8-805337810E52.jpg)
 
 Munich artist Emanuel Mooner / Neon Artist, Neon Art

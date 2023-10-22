@@ -14,12 +14,12 @@ size: 600x400cm
 Abandoned hospital chapel at  
 Innovationsquartier, Murnau
 
-![Crash Door](/uploads/2017/08/IMG_1334_web.jpg)
+![Crash Door]({{ site.baseurl }}/uploads/2017/08/IMG_1334_web.jpg)
 
-![Crash Door](/uploads/2017/08/IMG_1339_web.jpg)
+![Crash Door]({{ site.baseurl }}/uploads/2017/08/IMG_1339_web.jpg)
 
-![Crash Door](/uploads/2017/08/IMG_1343_web.jpg)
+![Crash Door]({{ site.baseurl }}/uploads/2017/08/IMG_1343_web.jpg)
 
-![Crash Door](/uploads/2017/08/IMG_1346_web.jpg)
+![Crash Door]({{ site.baseurl }}/uploads/2017/08/IMG_1346_web.jpg)
 
-![Crash Door](/uploads/2017/08/IMG_1350_web.jpg)
+![Crash Door]({{ site.baseurl }}/uploads/2017/08/IMG_1350_web.jpg)

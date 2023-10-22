@@ -17,13 +17,13 @@ Material: powdercoated metal, green handblown neon glass
 Size: 60x60cm  
 price on request (please use the mail below;)
 
-![y](/uploads/2020/11/P1020673-Kopie.jpg)
+![y]({{ site.baseurl }}/uploads/2020/11/P1020673-Kopie.jpg)
 
-![y](/uploads/2020/11/P1020677-Kopie.jpg)
+![y]({{ site.baseurl }}/uploads/2020/11/P1020677-Kopie.jpg)
 
-![y](/uploads/2020/11/P1020672-Kopie.jpg)
+![y]({{ site.baseurl }}/uploads/2020/11/P1020672-Kopie.jpg)
 
-![y](/uploads/2020/11/P1020676-Kopie.jpg)
+![y]({{ site.baseurl }}/uploads/2020/11/P1020676-Kopie.jpg)
 
 (C) Munich artist Emanuel Mooner / Neon Artist, Neon Art
 

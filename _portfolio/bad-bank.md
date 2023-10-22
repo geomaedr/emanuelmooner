@@ -17,14 +17,14 @@ He offers his customers to pick up their beertables and bring them back shiny an
 Distinctive is the color neon-orange, a reference to ambulances, fire engines, and simply as a signal color for warnings and danger.  
 The wood is planed and oiled to resist water and abrasion. The table legs are sandblasted and powdercoated.
 
-![y](/uploads/2020/04/P1010292.jpg)
+![y]({{ site.baseurl }}/uploads/2020/04/P1010292.jpg)
 
-![c](/uploads/2020/04/P1010291.jpg)
+![c]({{ site.baseurl }}/uploads/2020/04/P1010291.jpg)
 
-![c](/uploads/2020/04/P1010301.jpg)
+![c]({{ site.baseurl }}/uploads/2020/04/P1010301.jpg)
 
-![c](/uploads/2020/04/P1010293.jpg)
+![c]({{ site.baseurl }}/uploads/2020/04/P1010293.jpg)
 
-![c](/uploads/2020/04/P1010287.jpg)
+![c]({{ site.baseurl }}/uploads/2020/04/P1010287.jpg)
 
 Munich artist Emanuel Mooner / Neon Artist, Neon Art
