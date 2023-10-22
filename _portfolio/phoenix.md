@@ -2,7 +2,7 @@
 title: Phoenix
 layout: portfolio
 subtext: 
-image: "{{ site.baseurl }}/uploads/2019/12/P1010155-e1576499423735.jpg"
+image: "/uploads/2019/12/P1010155-e1576499423735.jpg"
 ---
 
 Phoenix  

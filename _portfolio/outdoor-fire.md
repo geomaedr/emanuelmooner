@@ -2,7 +2,7 @@
 title: outdoor fire for warmth and cooking
 layout: portfolio
 subtext: 
-image: "{{ site.baseurl }}/uploads/2017/11/IMG_7204.jpg"
+image: "/uploads/2017/11/IMG_7204.jpg"
 ---
 outdoor fire for warmth and cooking  
 2017

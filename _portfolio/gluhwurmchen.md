@@ -2,7 +2,7 @@
 title: Gluhwurmchen
 layout: portfolio
 subtext: Kunst München Kunstarkdaden Emanuel Mooner Plasmonics Neonkunst Neon Art Munich
-image: "{{ site.baseurl }}/uploads/2018/10/DSC_0070.jpg"
+image: "/uploads/2018/10/DSC_0070.jpg"
 ---
 
 Gluhwurmchen (as part of Ecto Chamber)  

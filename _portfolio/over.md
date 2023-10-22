@@ -2,7 +2,7 @@
 title: OVER
 layout: portfolio
 subtext: 
-image: "{{ site.baseurl }}/uploads/2019/12/P1010125-e1576499954951.jpg"
+image: "/uploads/2019/12/P1010125-e1576499954951.jpg"
 ---
 
 OVER  

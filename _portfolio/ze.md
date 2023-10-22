@@ -2,7 +2,7 @@
 title: ZE (2017)
 layout: portfolio
 subtext: @EASY!UPSTREAM GALLERY
-image: "{{ site.baseurl }}/uploads/2017/08/IMG_6057-e1503081512446.jpg"
+image: "/uploads/2017/08/IMG_6057-e1503081512446.jpg"
 ---
 ZE
 2017

@@ -2,7 +2,7 @@
 title: Ecto Chamber (2018)
 layout: portfolio
 subtext: 
-image: "{{ site.baseurl }}/uploads/2018/10/DSC_0123.jpg"
+image: "/uploads/2018/10/DSC_0123.jpg"
 ---
 
 Ecto Chamber  

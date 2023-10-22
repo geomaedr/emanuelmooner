@@ -2,7 +2,7 @@
 title: Ral 2005 Logs
 layout: portfolio
 subtext: 
-image: "{{ site.baseurl }}/uploads/2020/04/P1010303.jpg"
+image: "/uploads/2020/04/P1010303.jpg"
 ---
 Ral 2005 Logs  
 (powdercoated and oiled wood)  

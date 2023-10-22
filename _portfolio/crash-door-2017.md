@@ -2,7 +2,7 @@
 title: RCrash Door (2017)
 layout: portfolio
 subtext: "Innovationsquartier Murnau"
-image: "{{ site.baseurl }}/uploads/2017/05/IMG_1293_1900px.jpg"
+image: "/uploads/2017/05/IMG_1293_1900px.jpg"
 ---
 SOLD
 

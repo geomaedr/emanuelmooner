@@ -2,7 +2,7 @@
 title: Wandlungen
 layout: portfolio
 subtext: 
-image: "{{ site.baseurl }}/uploads/2020/06/IMG_8460-e1593447100724.jpg"
+image: "/uploads/2020/06/IMG_8460-e1593447100724.jpg"
 ---
 WANDLUNGEN  
 Utopia (ehem. Reithalle), München  

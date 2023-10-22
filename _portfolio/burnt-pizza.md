@@ -2,7 +2,7 @@
 title: Burnt Pizza
 layout: portfolio
 subtext: Kunst München Kunstarkaden Emanuel Mooner Neonkunst Neonart Munich Pizza
-image: "{{ site.baseurl }}/uploads/2018/10/DSC_0101.jpg"
+image: "/uploads/2018/10/DSC_0101.jpg"
 ---
 
 burnt Pizza (as part of Ecto Chamber)

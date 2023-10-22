@@ -2,7 +2,7 @@
 title: BLUE MILKSHAKE
 layout: portfolio
 subtext: 
-image: "{{ site.baseurl }}/uploads/2020/11/P1020651-Kopie.jpg"
+image: "/uploads/2020/11/P1020651-Kopie.jpg"
 ---
 
 BLUE MILKSHAKE

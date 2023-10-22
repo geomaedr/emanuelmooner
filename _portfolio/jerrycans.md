@@ -2,7 +2,7 @@
 title: Jerrycans
 layout: portfolio
 subtext: 
-image: "{{ site.baseurl }}/uploads/2020/04/C125853E-6DB8-44E6-990C-072F80A355E2.jpg"
+image: "/uploads/2020/04/C125853E-6DB8-44E6-990C-072F80A355E2.jpg"
 ---
 Jerrycans  
 2020

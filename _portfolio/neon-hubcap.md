@@ -2,7 +2,7 @@
 title: Neon Hubcap
 layout: portfolio
 subtext: 
-image: "{{ site.baseurl }}/uploads/2020/11/P1020576-Kopie.jpg"
+image: "/uploads/2020/11/P1020576-Kopie.jpg"
 ---
 
 Neon Hubcap

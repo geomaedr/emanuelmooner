@@ -2,7 +2,7 @@
 title: HA II
 layout: portfolio
 subtext: 
-image: "{{ site.baseurl }}/uploads/2019/12/Emanuel_Mooner_Austellung122019DSC_3863.jpg"
+image: "/uploads/2019/12/Emanuel_Mooner_Austellung122019DSC_3863.jpg"
 ---
 
 HA II  

@@ -2,7 +2,7 @@
 title: Today Will Be A Good Day (2017)
 layout: portfolio
 subtext: "Innovationsquartier Murnau"
-image: "{{ site.baseurl }}/uploads/2017/08/IMG_1334_web.jpg"
+image: "/uploads/2017/08/IMG_1334_web.jpg"
 ---
 Today Will Be A Good Day  
 2017  

@@ -2,7 +2,7 @@
 title: Amorphium
 layout: portfolio
 subtext: Kunst München Amorph Neonart neonkunst Emanuel Mooner Kunstarkaden Plasmonics
-image: "{{ site.baseurl }}/uploads/2018/10/DSC_0129.jpg"
+image: "/uploads/2018/10/DSC_0129.jpg"
 ---
 
 Amorphium (as part of Ecto Chamber)  

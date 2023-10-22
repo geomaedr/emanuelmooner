@@ -2,7 +2,7 @@
 title: Hook Series
 layout: portfolio
 subtext: 
-image: "{{ site.baseurl }}/uploads/2020/04/521C18CB-1D2A-43B7-AD28-6858F14E000E_web.jpg"
+image: "/uploads/2020/04/521C18CB-1D2A-43B7-AD28-6858F14E000E_web.jpg"
 ---
 Hook Series  
 2020  
