@@ -1,5 +1,5 @@
 - name: Portfolio
-  link: emanuelmooner/portfolio/
+  link: portfolio/
   image: /uploads/2016/02/Teufelsrad-2-768x576.jpg
   subtext: null
 - name: Everyday Collage
@@ -7,7 +7,7 @@
   image: /uploads/2022/06/doubleopening_Moonie.jpg
   subtext: null
 - name: News
-  link: emanuelmooner/portfolio/news/
+  link: portfolio/news/
   image: /uploads/2016/02/Ash-Reignite-4.jpg
   subtext: null
 - name: Sound
@@ -15,10 +15,10 @@
   image: '/assets/images/avatars-000037446260-dxnsp2-t200x200.jpg'
   subtext: null
 - name: Press
-  link: emanuelmooner/press/
+  link: press/
   image: /uploads/2016/02/SZ-768x1058.jpg
   subtext: null
 - name: Developer
-  link: emanuelmooner/test/
+  link: test/
   image: /uploads/2016/02/SZ-768x1058.jpg
   subtext: dev here
