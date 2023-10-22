@@ -2,7 +2,7 @@
 title: Hoop La Hoop
 layout: portfolio
 subtext: 
-image: "/uploads/2020/11/P1020673-Kopie.jpg"
+image: "{{ site.baseurl }}/uploads/2020/11/P1020673-Kopie.jpg"
 ---
 Hoop La Hoop
 

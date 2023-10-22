@@ -2,7 +2,7 @@
 title: Refridgerator Door (2017)
 layout: portfolio
 subtext: "Innovationsquartier Murnau"
-image: "/uploads/2017/08/upstream_eastIMG_8276-e1503090563595.jpg"
+image: "{{ site.baseurl }}/uploads/2017/08/upstream_eastIMG_8276-e1503090563595.jpg"
 ---
 Refridgerator Door  
 2017  

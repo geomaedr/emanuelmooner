@@ -2,7 +2,7 @@
 title: Medallion
 layout: portfolio
 subtext: 
-image: "/uploads/2017/11/IMG_5682.jpg"
+image: "{{ site.baseurl }}/uploads/2017/11/IMG_5682.jpg"
 ---
 Medallion  
 2017  

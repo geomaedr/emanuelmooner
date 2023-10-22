@@ -2,7 +2,7 @@
 title: RAL RING
 layout: portfolio
 subtext: 
-image: "/uploads/2020/11/P1020585-Kopie.jpg"
+image: "{{ site.baseurl }}/uploads/2020/11/P1020585-Kopie.jpg"
 ---
 RAL RING
 

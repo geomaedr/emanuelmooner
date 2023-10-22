@@ -2,7 +2,7 @@
 title: BAD BANK
 layout: portfolio
 subtext: 
-image: "/uploads/2020/04/P1010292.jpg"
+image: "{{ site.baseurl }}/uploads/2020/04/P1010292.jpg"
 ---
 
 BAD BANK  

@@ -3,7 +3,7 @@ title: Reinwaschung / Abluzione
 layout: portfolio
 subtext: Audio Installation. PVC, air liquide, reel-to-reel machines. as part of Utopia
   Triathlon, munich, 2014
-image: "/uploads/2022/09/P1030263_small.jpeg"
+image: "{{ site.baseurl }}/uploads/2022/09/P1030263_small.jpeg"
 ---
 
 **Reinwaschung / Abluzione**

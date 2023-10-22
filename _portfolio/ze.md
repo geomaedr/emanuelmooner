@@ -1,38 +1,22 @@
 ---
-title: crash car no.2
+title: ZE (2017)
 layout: portfolio
-subtext: 
-image: "{{ site.baseurl }}/uploads/2017/11/IMG_5699-e1509961468428.jpg"
+subtext: @EASY!UPSTREAM GALLERY
+image: "{{ site.baseurl }}/uploads/2017/08/IMG_6057-e1503081512446.jpg"
 ---
+ZE
+2017
+handmade neon light (snow white)
+size ca 30x70cm
 
-Crash Car No.2  
-2017  
-Galerie Benjamin Eck
+![y]({{ site.baseurl }}/uploads/2017/08/IMG_6057-e1503081512446.jpg)
 
-coated aluminium, custom made neon glass  
-size: circa 40x30x2cm
-
-_SOLD_
-
-![Crash Door]({{ site.baseurl }}/uploads/2017/11/IMG_5699-e1509961468428.jpg)
-
-![Crash Door]({{ site.baseurl }}/uploads/2017/11/IMG_6813-e1509961743554.jpg)
-
-![Crash Door]({{ site.baseurl }}/uploads/2017/11/IMG_5702.jpg)
-
-![Crash Door]({{ site.baseurl }}/uploads/2017/11/IMG_5701.jpg)
-
-![Crash Door]({{ site.baseurl }}/uploads/2017/11/IMG_6814.jpg)
-
-![Crash Door]({{ site.baseurl }}/uploads/2017/11/IMG_6816.jpg)
-
-![Crash Door]({{ site.baseurl }}/uploads/2017/11/IMG_6817-e1509961815630.jpg)
 
 <div class="wp-playlist wp-video-playlist wp-playlist-light">
 
 <noscript>
 
-1.  [Galerie Benjamin Eck]({{ site.baseurl }}/uploads/2017/11/IMG_6807.mov)
+1.  [Galerie Benjamin Eck]({{ site.baseurl }}/uploads/2017/08/IMG_6058.mov)
 
 </noscript>
 

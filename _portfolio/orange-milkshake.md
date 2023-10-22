@@ -2,7 +2,7 @@
 title: Orange Milkshake
 layout: portfolio
 subtext: 
-image: "/uploads/2020/11/P1020553.jpg"
+image: "{{ site.baseurl }}/uploads/2020/11/P1020553.jpg"
 ---
 
 Orange Milkshake

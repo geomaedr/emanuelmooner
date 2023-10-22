@@ -2,7 +2,7 @@
 title: RING VII
 layout: portfolio
 subtext: 
-image: "/uploads/2020/04/P1010408.jpg"
+image: "{{ site.baseurl }}/uploads/2020/04/P1010408.jpg"
 ---
 Ring VII  
 2020

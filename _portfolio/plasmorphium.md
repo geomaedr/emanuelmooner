@@ -2,7 +2,7 @@
 title: Plasmorphium
 layout: portfolio
 subtext: Plasma Morphium Kunst Latex Emanuel Mooner Kunstarkaden Neonart neonkunst München
-image: "/uploads/2018/10/DSC_0156.jpg"
+image: "{{ site.baseurl }}/uploads/2018/10/DSC_0156.jpg"
 ---
 
 Plasmorphium (as part of Ecto Chamber)  

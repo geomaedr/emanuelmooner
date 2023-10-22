@@ -2,7 +2,7 @@
 title: Ecojams Vol. 1
 layout: portfolio
 subtext: 
-image: "/uploads/2020/04/IMG_6617_web.jpg"
+image: "{{ site.baseurl }}/uploads/2020/04/IMG_6617_web.jpg"
 ---
 
 Ecojams Vol.1

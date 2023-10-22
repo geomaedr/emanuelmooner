@@ -2,7 +2,7 @@
 title: Mandarine Milkshake
 layout: portfolio
 subtext: 
-image: "/uploads/2020/11/P1020563-Kopie.jpg"
+image: "{{ site.baseurl }}/uploads/2020/11/P1020563-Kopie.jpg"
 ---
 
 Mandarine Milkshake

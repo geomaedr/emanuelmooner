@@ -2,7 +2,7 @@
 title: Singing Garden
 layout: portfolio
 subtext: 
-image: "/uploads/2020/09/P1020463-e1600757098911.jpg"
+image: "{{ site.baseurl }}/uploads/2020/09/P1020463-e1600757098911.jpg"
 ---
 Erneuerbare Medien Kunstverein Wolfsburg  
 2020

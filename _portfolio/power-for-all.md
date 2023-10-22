@@ -2,7 +2,7 @@
 title: Power For All
 layout: portfolio
 subtext: 
-image: "/uploads/2021/05/P1030036.jpg"
+image: "{{ site.baseurl }}/uploads/2021/05/P1030036.jpg"
 ---
 
 Power For All
