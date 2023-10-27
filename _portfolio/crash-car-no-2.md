@@ -2,7 +2,7 @@
 title: crash car no.2
 layout: portfolio
 subtext: 
-image: "/uploads/2017/11/IMG_5699-e1509961468428.jpg"
+image: "/uploads/2017/11/IMG_5701.jpg"
 col_size: 12
 portfolio_nr: 22
 ---

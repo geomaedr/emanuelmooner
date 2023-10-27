@@ -2,7 +2,7 @@
 title: Gluhwurmchen
 layout: portfolio
 subtext: Kunst München Kunstarkdaden Emanuel Mooner Plasmonics Neonkunst Neon Art Munich
-image: "/uploads/2018/10/DSC_0070.jpg"
+image: "/uploads/2018/10/DSC_0053.jpg"
 col_size: 7
 portfolio_nr: 25
 ---

@@ -2,7 +2,7 @@
 title: Ring V
 layout: portfolio
 subtext: 
-image: "/uploads/2019/12/Emanuel_Mooner_Austellung122019DSC_3799.jpg"
+image: "/uploads/2019/12/Emanuel_Mooner_Austellung122019DSC_3803-e1605001715273.jpg"
 col_size: 5
 portfolio_nr: 28
 ---

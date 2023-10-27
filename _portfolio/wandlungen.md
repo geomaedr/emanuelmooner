@@ -2,7 +2,7 @@
 title: Wandlungen
 layout: portfolio
 subtext: 
-image: "/uploads/2020/06/IMG_8460-e1593447100724.jpg"
+image: "/uploads/2020/06/P1010437-e1605001101726.jpg"
 portfolio_nr: 43
 col_size: 5
 ---

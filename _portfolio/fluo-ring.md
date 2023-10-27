@@ -2,7 +2,7 @@
 title: FLUO RING, INSTALLATION
 layout: portfolio
 subtext: RECYCLED NEON LETTERS, TREE BRANCHES, HISTORISCHE AULA, AKADEMIE DER BILDENDEN KÜNSTE, 2016
-image: /uploads/2016/03/IMG_0363_0.jpg
+image: "/uploads/2016/03/IMG_0363_0.jpg"
 portfolio_nr: 5
 col_size: 5
 ---

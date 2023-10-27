@@ -2,7 +2,7 @@
 title: PLASTIC DREAMS (VAPORWAVE NO.1)
 layout: portfolio
 subtext: COMPUTER CONTROLLED RECYCLED NEON LETTERS, 2016
-image: "/uploads/2016/10/IMG_0958-e1476629899378.jpg"
+image: "/uploads/2021/05/barn_rueckansicht_klein.jpg"
 portfolio_nr: 3
 col_size: 7
 ---

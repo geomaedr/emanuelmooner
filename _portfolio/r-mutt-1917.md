@@ -2,7 +2,7 @@
 title: R.MUTT 1917
 layout: portfolio
 subtext: RECYCLED NEON LETTERS, FOG MACHINE, 2014
-image: /uploads/2016/02/R-Mutt-1917-2.jpg
+image: "/uploads/2016/02/R-Mutt-1917-2.jpg"
 portfolio_nr: 12
 col_size: 12
 ---

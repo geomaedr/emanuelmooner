@@ -2,7 +2,7 @@
 title: FOG FLOOD / UTOPIA TRIATHLON
 layout: portfolio
 subtext: AUSBESSERUNGSWERK FREIMANN, MÜNCHEN 2014
-image: /uploads/2016/02/FogFlood.jpg
+image: "/uploads/2016/02/FogFlood.jpg"
 portfolio_nr: 14
 col_size: 6
 ---

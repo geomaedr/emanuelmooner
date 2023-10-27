@@ -2,7 +2,7 @@
 title: I AM REAL (2017)
 layout: portfolio
 subtext: "@EasyUpstream, Munich, mixed media"
-image: "/uploads/2017/07/IMG_1319.jpg"
+image: "/uploads/2017/07/IMG_1324.jpg"
 col_size: 7
 portfolio_nr: 19
 ---

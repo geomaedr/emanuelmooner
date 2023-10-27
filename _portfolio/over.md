@@ -2,7 +2,7 @@
 title: OVER
 layout: portfolio
 subtext: 
-image: "/uploads/2019/12/P1010125-e1576499954951.jpg"
+image: "/uploads/2019/12/IMG_2998-e1605001615872.jpg"
 col_size: 5
 portfolio_nr: 33
 ---
