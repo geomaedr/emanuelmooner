@@ -11,25 +11,20 @@
 		
 	<title></title>
 
-<!-- This site is optimized with the Yoast SEO plugin v5.9.3 - https://yoast.com/wordpress/plugins/seo/ -->
-<meta name="description" content="Dompteur mooner, neonart, neon, artist, german artist instagram artist collage art monopol zombie nation contemporary art">
-<link rel="canonical" href="https://www.emanuelmooner.com/">
+<meta name="description" content="{{ page.subtext|default: "Dompteur mooner, neonart, neon, artist, german artist instagram artist collage art monopol zombie nation contemporary art" }}">
+<link rel="canonical" href="{{ site.url }}">
 <meta property="og:locale" content="de_DE">
 <meta property="og:type" content="website">
-<meta property="og:title" content="EMANUEL MOONER - EMANUEL MOONER">
-<meta property="og:description" content="Dompteur mooner, neonart, neon, artist, german artist instagram artist collage art monopol zombie nation contemporary art">
-<meta property="og:url" content="https://www.emanuelmooner.com/">
-<meta property="og:site_name" content="EMANUEL MOONER">
+<meta property="og:title" content="{{ page.title }} - {{ site.title }}">
+<meta property="og:description" content="{{ page.subtext|default: "Dompteur mooner, neonart, neon, artist, german artist instagram artist collage art monopol zombie nation contemporary art" }}">
+<meta property="og:url" content="{{ site.url }}">
+<meta property="og:site_name" content="{{ page.title }} - {{ site.title }}">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:description" content="Dompteur mooner, neonart, neon, artist, german artist instagram artist collage art monopol zombie nation contemporary art">
-<meta name="twitter:title" content="EMANUEL MOONER - EMANUEL MOONER">
+<meta name="twitter:description" content="{{ page.subtext|default: "Dompteur mooner, neonart, neon, artist, german artist instagram artist collage art monopol zombie nation contemporary art" }}">
+<meta name="twitter:title" content="{{ page.title }} - {{ site.title }}">
 <script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"http:\/\/www.emanuelmooner.com\/","name":"EMANUEL MOONER","potentialAction":{"@type":"SearchAction","target":"http:\/\/www.emanuelmooner.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
-<!-- / Yoast SEO plugin. -->
 
 
-<link rel="dns-prefetch" href="//s.w.org">
-<link rel="alternate" type="application/rss+xml" title="EMANUEL MOONER &raquo; Feed" href="https://www.emanuelmooner.com/feed/">
-<link rel="alternate" type="application/rss+xml" title="EMANUEL MOONER &raquo; Kommentar-Feed" href="https://www.emanuelmooner.com/comments/feed/">
 <link rel="stylesheet" id="folia-bootstrap-css" href="{{ site.baseurl }}/assets/css/bootstrap.min.css?ver=4.7.25" type="text/css" media="all">
 <link rel="stylesheet" id="folia-awesome-css" href="{{ site.baseurl }}/assets/css/font-awesome.min.css?ver=4.7.25" type="text/css" media="all">
 <link rel="stylesheet" id="folia-magnific-css" href="{{ site.baseurl }}/assets/css/magnific-popup.css?ver=4.7.25" type="text/css" media="all">
