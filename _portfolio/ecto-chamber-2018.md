@@ -3,6 +3,8 @@ title: Ecto Chamber (2018)
 layout: portfolio
 subtext: 
 image: "/uploads/2018/10/DSC_0123.jpg"
+col_size: 5
+portfolio_nr: 24
 ---
 
 Ecto Chamber  

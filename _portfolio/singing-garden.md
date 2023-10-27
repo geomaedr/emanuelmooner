@@ -3,6 +3,8 @@ title: Singing Garden
 layout: portfolio
 subtext: 
 image: "/uploads/2020/09/P1020463-e1600757098911.jpg"
+portfolio_nr: 44
+col_size: 7
 ---
 Erneuerbare Medien Kunstverein Wolfsburg  
 2020
@@ -24,10 +26,3 @@ Die vermeintlich erste, mit Solar-Akku betriebene Kunstausstellung Deutschlands 
 **_[PODCAST mit Zukunftsforscher Michael Carl](https://dastorzururbanenzukunft.podigee.io/5-klang-und-raum-der-stadt)_**
 
 Munich artist Emanuel Mooner / Neon Artist, Neon Art
-
-
-
-
-
-
-

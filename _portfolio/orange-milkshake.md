@@ -3,6 +3,8 @@ title: Orange Milkshake
 layout: portfolio
 subtext: 
 image: "/uploads/2020/11/P1020553.jpg"
+col_size: 5
+portfolio_nr: 50
 ---
 
 Orange Milkshake
@@ -29,10 +31,3 @@ price on request (please use the mail below;)
  ![y]({{ site.baseurl }}/uploads/2020/11/P1020554.jpg)
 
 (C) Munich artist Emanuel Mooner / Neon Artist, Neon Art
-
-
-
-
-
-
-

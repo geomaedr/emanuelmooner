@@ -3,6 +3,8 @@ title: BAD BANK
 layout: portfolio
 subtext: 
 image: "/uploads/2020/04/P1010292.jpg"
+col_size: 5
+portfolio_nr: 35
 ---
 
 BAD BANK  

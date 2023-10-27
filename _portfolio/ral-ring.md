@@ -3,6 +3,8 @@ title: RAL RING
 layout: portfolio
 subtext: 
 image: "/uploads/2020/11/P1020585-Kopie.jpg"
+col_size: 5
+portfolio_nr: 45
 ---
 RAL RING
 
@@ -24,10 +26,3 @@ S O L D
 ![y]({{ site.baseurl }}/uploads/2020/11/P1020597-Kopie.jpg)
 
 (C) Munich artist Emanuel Mooner / Neon Artist, Neon Art
-
-
-
-
-
-
-

@@ -3,6 +3,8 @@ title: Neon Hubcap
 layout: portfolio
 subtext: 
 image: "/uploads/2020/11/P1020576-Kopie.jpg"
+col_size: 5
+portfolio_nr: 47
 ---
 
 Neon Hubcap
@@ -27,10 +29,3 @@ price on request (please use the mail below;)
 ![y]({{ site.baseurl }}/uploads/2020/11/P1020582-Kopie.jpg)
 
 (C) Munich artist Emanuel Mooner / Neon Artist, Neon Art
-
-
-
-
-
-
-

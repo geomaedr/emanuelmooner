@@ -3,6 +3,8 @@ title: HA II
 layout: portfolio
 subtext: 
 image: "/uploads/2019/12/Emanuel_Mooner_Austellung122019DSC_3863.jpg"
+col_size: 5
+portfolio_nr: 31
 ---
 
 HA II  

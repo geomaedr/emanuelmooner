@@ -3,6 +3,8 @@ title: RING VII
 layout: portfolio
 subtext: 
 image: "/uploads/2020/04/P1010408.jpg"
+col_size: 5
+portfolio_nr: 40
 ---
 Ring VII  
 2020

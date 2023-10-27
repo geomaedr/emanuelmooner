@@ -3,6 +3,8 @@ title: Ring VII apx
 layout: portfolio
 subtext: 
 image: "/uploads/2020/04/P1010411.jpg"
+col_size: 5
+portfolio_nr: 41
 ---
 Ring VII apx  
 2020

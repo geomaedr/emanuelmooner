@@ -3,6 +3,8 @@ title: Interims Lovers
 layout: portfolio
 subtext: 
 image: "/uploads/2019/12/Emanuel_Mooner_Austellung122019DSC_3810.jpg"
+col_size: 12
+portfolio_nr: 29
 ---
 
 Interims Lovers  

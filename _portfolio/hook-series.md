@@ -3,6 +3,8 @@ title: Hook Series
 layout: portfolio
 subtext: 
 image: "/uploads/2020/04/521C18CB-1D2A-43B7-AD28-6858F14E000E_web.jpg"
+col_size: 5
+portfolio_nr: 37
 ---
 Hook Series  
 2020  

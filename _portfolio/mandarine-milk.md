@@ -3,6 +3,8 @@ title: Mandarine Milkshake
 layout: portfolio
 subtext: 
 image: "/uploads/2020/11/P1020563-Kopie.jpg"
+col_size: 5
+portfolio_nr: 49
 ---
 
 Mandarine Milkshake
@@ -27,10 +29,3 @@ price on request (please use the mail below;)
  ![y]({{ site.baseurl }}/uploads/2020/11/P1020574-Kopie.jpg)
 
 (C) Munich artist Emanuel Mooner / Neon Artist, Neon Art
-
-
-
-
-
-
-

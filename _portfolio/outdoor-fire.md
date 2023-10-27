@@ -3,6 +3,8 @@ title: outdoor fire for warmth and cooking
 layout: portfolio
 subtext: 
 image: "/uploads/2017/11/IMG_7204.jpg"
+col_size: 5
+portfolio_nr: 21
 ---
 outdoor fire for warmth and cooking  
 2017
@@ -26,4 +28,6 @@ _SOLD_
 
 </noscript>
 
-<script type="application/json" class="wp-playlist-script">{"type":"video","tracklist":true,"tracknumbers":true,"images":true,"artists":true,"tracks":[{"src":"http:\/\/www.emanuelmooner.com\/wp-content\/uploads\/2017\/11\/IMG_7201.mov","type":"video\/quicktime","title":"IMG_7201","caption":"","description":"","meta":{"length_formatted":"0:40"},"dimensions":{"original":{"width":1280,"height":720},"resized":{"width":1898,"height":1068}},"image":{"src":"http:\/\/www.emanuelmooner.com\/wp-includes\/images\/media\/video.png","width":48,"height":64},"thumb":{"src":"http:\/\/www.emanuelmooner.com\/wp-includes\/images\/media\/video.png","width":48,"height":64}}]}</script></div>
+<video controls="controls" width="800" height="450" name="Galerie Benjamin Eck">
+  <source src="{{ site.baseurl }}/uploads/2017/11/IMG_6807.mov">
+</video>

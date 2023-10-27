@@ -3,6 +3,8 @@ title: BLUE MILKSHAKE
 layout: portfolio
 subtext: 
 image: "/uploads/2020/11/P1020651-Kopie.jpg"
+col_size: 5
+portfolio_nr: 48
 ---
 
 BLUE MILKSHAKE
@@ -25,10 +27,3 @@ price on request (please use the mail below;)
 ![y]({{ site.baseurl }}/uploads/2020/11/P1020644-Kopie.jpg)
 
 (C) Munich artist Emanuel Mooner / Neon Artist, Neon Art
-
-
-
-
-
-
-

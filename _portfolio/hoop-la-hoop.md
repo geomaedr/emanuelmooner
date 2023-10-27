@@ -3,6 +3,8 @@ title: Hoop La Hoop
 layout: portfolio
 subtext: 
 image: "/uploads/2020/11/P1020673-Kopie.jpg"
+col_size: 5
+portfolio_nr: 46
 ---
 Hoop La Hoop
 
@@ -26,10 +28,3 @@ price on request (please use the mail below;)
 ![y]({{ site.baseurl }}/uploads/2020/11/P1020676-Kopie.jpg)
 
 (C) Munich artist Emanuel Mooner / Neon Artist, Neon Art
-
-
-
-
-
-
-

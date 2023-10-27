@@ -3,6 +3,8 @@ title: Power For All
 layout: portfolio
 subtext: 
 image: "/uploads/2021/05/P1030036.jpg"
+col_size: 7
+portfolio_nr: 51
 ---
 
 Power For All
@@ -42,10 +44,3 @@ More Info via mail or want to join the newsletter? please use the mail below;
 (C) Munich artist Emanuel Mooner / Neon Artist, Neon Art
 
 solar, regenerative medien, solar energie, münchen, sugar mountain, nachts, art in public, munich, solar energy art
-
-
-
-
-
-
-

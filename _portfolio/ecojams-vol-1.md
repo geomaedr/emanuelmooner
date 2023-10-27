@@ -3,6 +3,8 @@ title: Ecojams Vol. 1
 layout: portfolio
 subtext: 
 image: "/uploads/2020/04/IMG_6617_web.jpg"
+col_size: 7
+portfolio_nr: 36
 ---
 
 Ecojams Vol.1

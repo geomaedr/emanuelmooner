@@ -3,6 +3,8 @@ title: Ring VI
 layout: portfolio
 subtext: 
 image: "/uploads/2019/12/Emanuel_Mooner_Austellung122019DSC_3863.jpg"
+col_size: 7
+portfolio_nr: 30
 ---
 
 Ring VI  

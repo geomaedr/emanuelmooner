@@ -3,6 +3,8 @@ title: IDEA# Series
 layout: portfolio
 subtext: 
 image: "/uploads/2020/04/AD0EA690-6399-42CC-81F4-E7B7B0C5E5AB.jpg"
+col_size: 5
+portfolio_nr: 38
 ---
 idea# Series  
 

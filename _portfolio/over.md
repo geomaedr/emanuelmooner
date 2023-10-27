@@ -3,6 +3,8 @@ title: OVER
 layout: portfolio
 subtext: 
 image: "/uploads/2019/12/P1010125-e1576499954951.jpg"
+col_size: 5
+portfolio_nr: 33
 ---
 
 OVER  

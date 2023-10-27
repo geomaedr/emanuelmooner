@@ -3,6 +3,8 @@ title: crash car no.2
 layout: portfolio
 subtext: 
 image: "/uploads/2017/11/IMG_5699-e1509961468428.jpg"
+col_size: 12
+portfolio_nr: 22
 ---
 
 Crash Car No.2  
@@ -36,4 +38,6 @@ _SOLD_
 
 </noscript>
 
-<script type="application/json" class="wp-playlist-script">{"type":"video","tracklist":true,"tracknumbers":true,"images":true,"artists":true,"tracks":[{"src":"http:\/\/www.emanuelmooner.com\/wp-content\/uploads\/2017\/11\/IMG_6807.mov","type":"video\/quicktime","title":"Galerie Benjamin Eck","caption":"","description":"","meta":{"length_formatted":"0:29"},"dimensions":{"original":{"width":1920,"height":1080},"resized":{"width":1898,"height":1068}},"image":{"src":"http:\/\/www.emanuelmooner.com\/wp-includes\/images\/media\/video.png","width":48,"height":64},"thumb":{"src":"http:\/\/www.emanuelmooner.com\/wp-includes\/images\/media\/video.png","width":48,"height":64}}]}</script></div>
+<video controls="controls" width="800" height="450" name="Galerie Benjamin Eck">
+  <source src="{{ site.baseurl }}/uploads/2017/11/IMG_6807.mov">
+</video>
