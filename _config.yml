@@ -44,6 +44,12 @@ collections:
   portfolio:
     output: true
     sidebar_label: portfolio
+  news:
+    output: true
+    sidebar_label: news
+  press:
+    output: true
+    sidebar_label: press
 
 # Exclude from processing.
 # The following items will not be processed, by default.

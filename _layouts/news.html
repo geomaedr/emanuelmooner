@@ -1,0 +1,21 @@
+---
+layout: default
+---
+        
+<div class="post-content">
+    <div class="clearfix main-margin">
+        <p><strong>N E W S // E X H I B I T I O N S // P R O J E C T S</strong></p>
+        <p>—————————————————————<br>
+            —————————————————————<br>
+        {% assign news = site.news %}
+        {% for item in news | sort: 'news_nr' | reverse %}
+        {{ item.content }}
+        <p>—————————————————————<br>
+            —————————————————————<br>
+        {% endfor %}
+
+    </div>
+    <p>Munich artist Emanuel Mooner / Neon Artist, Neon Art</p>
+    {%  include type-form.html %}
+
+</div>
