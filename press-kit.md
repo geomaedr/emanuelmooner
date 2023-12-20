@@ -1,6 +1,6 @@
 ---
-title: Press-Kit
-layout: default
+title: Press Kit Emanuel Mooner
+layout: portfolio
 ---
 **EMANUEL MOONER**
 
@@ -14,7 +14,7 @@ Instagram: [@emanuelmooner](https://www.instagram.com/emanuelmooner/) [@dompteur
 - 2002 Public Ads, Edinburgh College of Art, Edinburgh
 - 2011 Pollyester Parking Lot I, Maximiliansforum Munich
 - 2012 Pollyester Parking Lot II, Maximiliansforum Munich
-- 2014 Utopia Triathlon (1914 | 2014. Die Neuvermessung Europas) Munich
+- 2014 Utopia Triathlon (1914 \| 2014. Die Neuvermessung Europas) Munich
 - 2014 Flush Boys Casino Royale, Kunstverein Wolfsburg
 - 2015 Teufelsrad, Grafische Betriebe Biering, München
 - 2015 Ash Reignite, Miao Galerie München
