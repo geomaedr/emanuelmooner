@@ -11,9 +11,11 @@ layout: default
             —————————————————————<br>
         {% assign news = site.news %}
         {% for item in news | sort: 'news_nr' | reverse %}
-        {{ item.content }}
-        <p>—————————————————————<br>
-            —————————————————————<br>
+            {% if item.news_nr != -1 %}
+            {{ item.content }}
+            <p>—————————————————————<br>
+                —————————————————————<br>
+            {% endif %}
         {% endfor %}
 
     </div>
