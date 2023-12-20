@@ -1,5 +1,6 @@
 ---
-layout: press
+title: Press
+layout: default
 ---
 **[-> click here for PRESS KIT](https://www.emanuelmooner.com/portfolio/press-kit-emanuel-mooner/)**
 
