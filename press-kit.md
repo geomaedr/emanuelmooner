@@ -41,11 +41,11 @@ Instagram: [@emanuelmooner](https://www.instagram.com/emanuelmooner/) [@dompteur
 
 PRESS PHOTOS (copyright Emanuel Mooner 2020)
 
-![y](https://www.emanuelmooner.com/wp-content/uploads/2020/07/Baugeld-30.jpg)
+![y](https://www.emanuelmooner.com/wp-content/uploads/2020/07/Baugeld-30.jpg){: style="width: 100%;" }
 
 [**HI RES TIFF**](https://www.emanuelmooner.com/wp-content/uploads/2020/07/Baugeld-35.tif.zip)
 
-![y](https://www.emanuelmooner.com/wp-content/uploads/2020/07/Baugeld-35.jpg)
+![y](https://www.emanuelmooner.com/wp-content/uploads/2020/07/Baugeld-35.jpg){: style="width: 100%;" }
 
 **[HI RES TIFF](https://www.emanuelmooner.com/wp-content/uploads/2020/07/Baugeld-35.tif.zip)**
 
