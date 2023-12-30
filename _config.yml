@@ -41,15 +41,12 @@ jekyll_admin:
   homepage: "pages"
 
 collections:
-  portfolio:
-    output: true
-    sidebar_label: portfolio
   news:
     sidebar_label: news
     output: true
-  press:
-    sidebar_label: press
+  portfolio:
     output: true
+    sidebar_label: portfolio
 
 # Exclude from processing.
 # The following items will not be processed, by default.

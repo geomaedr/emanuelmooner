@@ -1,6 +1,7 @@
 ---
 title: Press Kit Emanuel Mooner
-layout: portfolio
+permalink: /press-kit/
+layout: default
 ---
 **EMANUEL MOONER**
 
