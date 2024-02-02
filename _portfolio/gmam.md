@@ -24,6 +24,7 @@ Erschienen in der letzten Ausgabe Die Beute im Jahr 1999, ID Verlag, Berlin
 **Exhibition**
 
 **Tegernsee** @Kunstakademie Tegernsee
+
 15th of Feb 2020 Opening
 Artist talk 07. March 2020
 21st of March Workshop (kids)
@@ -31,5 +32,6 @@ Artist talk 07. March 2020
 
  
 ————————————————————
+
 Munich artist Emanuel Mooner / Neon Artist, Neon Art
 GMAM (Gewesene Mechanismen Androide Mutationen) 1999 Subkultur München
