@@ -1,18 +1,15 @@
+{% assign portfolios = site.portfolio | sort: 'portfolio_nr' | reverse %}
 
-{% if page.collection %}
-    {% assign links = site[page.collection]  %}
-{% endif %}
-
-{% for link in links %}
-	{% if link.title == page.title %}
+{% for item in portfolios %}
+	{% if item.title == page.title %}
 		{% unless forloop.first %}
 			{% assign prev = tmpprev %}
 		{% endunless %}
 		{% unless forloop.last %}
-			{% assign next = links[forloop.index] %}
+			{% assign next = portfolios[forloop.index] %}
 		{% endunless %}
 	{% endif %}
-	{% assign tmpprev = link %}
+	{% assign tmpprev = item %}
 {% endfor %}
 
 

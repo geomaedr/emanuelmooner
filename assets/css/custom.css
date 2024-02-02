@@ -85,7 +85,8 @@ section .row .mz-home-link.ih-item.square:not(.effect1) .info h3:after {
 }
 
 /* Press Site - Vertical Spacing  */
-.single-blog.press p > img {
+.single-blog.press p > img,
+.single-blog.portfolio p > img {
     margin-bottom: 30px;
     margin-top: 30px;
 }
