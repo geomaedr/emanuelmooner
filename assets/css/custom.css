@@ -1,0 +1,14 @@
+/*
+Custom MZ CSS
+*/
+
+/* Press Site - Vertical Spacing  */
+.single-blog.press p > img {
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+/* Press Site - Layout linked img  */
+.single-blog.press p > a:has(img) {
+    display: block;
+    margin-bottom: 30px;
+}

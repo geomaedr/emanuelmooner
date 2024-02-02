@@ -1,8 +1,9 @@
 ---
 title: Press
 layout: default
+style: press
 ---
-**[-> click here for PRESS KIT](https://www.emanuelmooner.com/portfolio/press-kit-emanuel-mooner/)**
+**[-> click here for PRESS KIT](https://www.emanuelmooner.com/press-kit)**
 
 ![Monopol 2021](https://www.emanuelmooner.com/wp-content/uploads/2022/06/monopol_special.jpeg)
 ![Springerin 2021](https://www.emanuelmooner.com/wp-content/uploads/2022/06/IMG_4492.jpg)

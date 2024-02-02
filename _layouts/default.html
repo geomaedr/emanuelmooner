@@ -11,7 +11,7 @@ TOP BAR
 {% if page.url !='/' %}
     {% include navigation.html %}
 {% endif %}
-<section class="single-blog">
+<section class="single-blog {% if page.style %}{{ page.style }} {% endif %}">
     <div class="container">
         <div class="page-title-block" style="{% if page.url =='/' %} margin-top: 100px; {% endif %}">
             <h3>{{page.title}}</h3>   
