@@ -2,6 +2,88 @@
 Custom MZ CSS
 */
 
+
+/****************************************
+* CUSTOM - Markus Zweng
+****************************************/
+
+/* General */
+
+.portfolio-filters a.active {
+	color: #ed1c2a;
+}
+a:focus {
+	color: #000;
+}
+
+/* iOS force touble tap */
+@media (max-width: 480px) {
+	.ih-item.square.effect6 .info {
+		display: none;
+	}
+	.ih-item.square.effect6 a:hover .info {
+		display: block;
+	}
+}
+
+
+/* Home */
+
+.mz-home-gap {
+	margin-top: 80px;
+	width: 100%;
+}
+@media (max-width: 480px) {
+	.mz-home-gap {	
+		margin-top: 0px;
+	}
+}
+
+.page-id-768 .page-title-block {
+	margin-top: 100px;
+}
+.page-id-768 .navigation-bar,
+.page-id-768 .copyright {
+	display: none;
+}
+
+.mz-home-link.ih-item.square, 
+.mz-home-link .img {
+	height: 275px;
+}
+.mz-home-link.ih-item.square.effect6 .info h3 {
+	font-size: 25px;
+}
+section .row .mz-home-link.ih-item.square:not(.effect1) .info h3:after {
+	border: 0;
+	height: 0;
+}
+
+
+/* Portfolio Detail */
+.post-share {
+    text-align: center;
+}
+
+.post-share a:hover {
+	background: #ed1c2a;
+	color: #fff !important;
+}
+
+/* Footer */
+.copyright .social  {
+	display: none;
+}
+.copyright .copyrights-text p {
+	margin: 0;
+}
+
+
+/* Portfolio Elemente - Hoehe */
+.portfolios-container .ih-item .img {
+    height: 305px;	
+}
+
 /* Press Site - Vertical Spacing  */
 .single-blog.press p > img {
     margin-bottom: 30px;
