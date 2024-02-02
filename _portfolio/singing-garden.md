@@ -5,6 +5,7 @@ subtext:
 image: "/uploads/2020/09/P1020463-e1600757098911.jpg"
 portfolio_nr: 44
 col_size: 7
+style: portfolio
 ---
 Erneuerbare Medien Kunstverein Wolfsburg  
 2020

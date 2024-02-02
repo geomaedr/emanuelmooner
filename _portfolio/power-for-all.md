@@ -4,6 +4,7 @@ layout: portfolio
 subtext: 
 image: "/uploads/2021/05/P1030036.jpg"
 col_size: 7
+style: portfolio
 portfolio_nr: 51
 ---
 

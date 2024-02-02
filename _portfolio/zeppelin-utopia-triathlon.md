@@ -5,6 +5,7 @@ subtext: "Audio Installation. PVC, air liquide, reel-to-reel machines. as part o
 image: "/uploads/2016/02/Zeppelin.jpg"
 portfolio_nr: 11
 col_size: 7
+style: portfolio
 ---
 
 ![Zeppelin]({{ site.baseurl }}/uploads/2016/02/Zeppelin.jpg)

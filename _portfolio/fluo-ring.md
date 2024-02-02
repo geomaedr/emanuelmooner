@@ -5,6 +5,7 @@ subtext: RECYCLED NEON LETTERS, TREE BRANCHES, HISTORISCHE AULA, AKADEMIE DER BI
 image: "/uploads/2016/03/IMG_0363_0.jpg"
 portfolio_nr: 5
 col_size: 5
+style: portfolio
 ---
 2018
 

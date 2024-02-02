@@ -4,6 +4,7 @@ layout: portfolio
 subtext: "Innovationsquartier Murnau"
 image: "/uploads/2017/05/IMG_1293_1900px.jpg"
 col_size: 6
+style: portfolio
 portfolio_nr: 15
 ---
 SOLD

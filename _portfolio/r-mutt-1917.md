@@ -5,6 +5,7 @@ subtext: RECYCLED NEON LETTERS, FOG MACHINE, 2014
 image: "/uploads/2016/02/R-Mutt-1917-2.jpg"
 portfolio_nr: 12
 col_size: 12
+style: portfolio
 ---
 R.Mutt 1917
 (Marcel Duchamp quote)

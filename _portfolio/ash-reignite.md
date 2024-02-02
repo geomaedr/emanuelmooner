@@ -5,6 +5,7 @@ subtext: RECYCLED NEON LETTERS, LITTER, REFUGEE SURVIVAL TENTS. MIAO MÜNCHEN, 2
 image: "/uploads/2016/02/Ash-Reignite.jpg"
 portfolio_nr: 4
 col_size: 12
+style: portfolio
 ---
 
 ![y]({{ site.baseurl }}/uploads/2016/02/Ash-Reignite-1024x683.jpg)

@@ -4,6 +4,7 @@ layout: portfolio
 subtext: 
 image: "/uploads/2018/10/DSC_0123.jpg"
 col_size: 5
+style: portfolio
 portfolio_nr: 24
 ---
 

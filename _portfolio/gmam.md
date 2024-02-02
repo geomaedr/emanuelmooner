@@ -4,6 +4,7 @@ layout: portfolio
 image: "/uploads/2016/10/IMG_1012-e1476787395908.jpg"
 portfolio_nr: 2
 col_size: 6
+style: portfolio
 ---
 Die Beute 1999
 

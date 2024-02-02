@@ -4,6 +4,7 @@ layout: portfolio
 subtext: 
 image: "/uploads/2019/12/Emanuel_Mooner_Austellung122019DSC_3817-e1605001697606.jpg"
 col_size: 12
+style: portfolio
 portfolio_nr: 29
 ---
 

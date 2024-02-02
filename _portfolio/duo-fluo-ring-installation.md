@@ -5,6 +5,7 @@ subtext: RECYCLED NEON LETTERS, TREE BRANCHES, EASY UPSTREAM, 2016
 image: "/uploads/2016/11/IMG_0448.jpg"
 portfolio_nr: 1
 col_size: 6
+style: portfolio
 ---
 SOLD
 

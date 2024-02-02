@@ -5,6 +5,7 @@ subtext: Audio Installation. PVC, air liquide, reel-to-reel machines. as part of
   Triathlon, munich, 2014
 image: "/uploads/2022/09/P1030263_small.jpeg"
 col_size: 5
+style: portfolio
 portfolio_nr: 52
 ---
 

@@ -4,6 +4,7 @@ layout: portfolio
 subtext: 
 image: "/uploads/2020/04/IMG_6617_web.jpg"
 col_size: 7
+style: portfolio
 portfolio_nr: 36
 ---
 

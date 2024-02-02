@@ -4,6 +4,7 @@ layout: portfolio
 subtext: "Innovationsquartier Murnau"
 image: "/uploads/2017/08/upstream_eastIMG_8276-e1503090563595.jpg"
 col_size: 6
+style: portfolio
 portfolio_nr: 17
 ---
 Refridgerator Door  

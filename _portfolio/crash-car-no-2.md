@@ -4,6 +4,7 @@ layout: portfolio
 subtext: 
 image: "/uploads/2017/11/IMG_5701.jpg"
 col_size: 12
+style: portfolio
 portfolio_nr: 22
 ---
 

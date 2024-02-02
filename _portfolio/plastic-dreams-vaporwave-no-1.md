@@ -5,6 +5,7 @@ subtext: COMPUTER CONTROLLED RECYCLED NEON LETTERS, 2016
 image: "/uploads/2021/05/barn_rueckansicht_klein.jpg"
 portfolio_nr: 3
 col_size: 7
+style: portfolio
 ---
 SOLD
 

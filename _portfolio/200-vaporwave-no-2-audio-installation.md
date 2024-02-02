@@ -5,6 +5,7 @@ subtext: 4-CHANNEL AUDIO INSTALLATION, RUNNING TIME 68 MIN
 image: "/uploads/2016/10/IMG_0958-e1476629899378.jpg"
 portfolio_nr: 2
 col_size: 12
+style: portfolio
 ---
 
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/288446253&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>

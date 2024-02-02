@@ -5,6 +5,7 @@ subtext:
 image: "/uploads/2017/08/IMG_1193-e1503087575303.jpg"
 portfolio_nr: 10
 col_size: 6
+style: portfolio
 ---
 Mizaru Kikazaru Iwazaru
 2015
