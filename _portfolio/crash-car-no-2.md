@@ -31,14 +31,7 @@ _SOLD_
 
 ![Crash Door]({{ site.baseurl }}/uploads/2017/11/IMG_6817-e1509961815630.jpg)
 
-<div class="wp-playlist wp-video-playlist wp-playlist-light">
-
-<noscript>
-
-1.  [Galerie Benjamin Eck]({{ site.baseurl }}/uploads/2017/11/IMG_6807.mov)
-
-</noscript>
-
-<video controls="controls" width="800" height="450" name="Galerie Benjamin Eck">
-  <source src="{{ site.baseurl }}/uploads/2017/11/IMG_6807.mov">
+<video width="800" height="450" controls>
+  <source src="{{ site.baseurl }}/uploads/2024/02/crash-car-no-2.mp4" type="video/mp4">
+Your browser does not support the video tag.
 </video>
