@@ -17,7 +17,9 @@ SOLD
 
 ![y]({{ site.baseurl }}/uploads/2016/11/IMG_0483.jpg)
 
-[![y]({{ site.baseurl }}/assets/vid_thumbnail/fluo_ring.jpg)](https://www.youtube.com/watch?v=NNimt3IkR_A){: .vid-thumb}
+<span style="height: 30px; display: block;"></span>
+<p><iframe src="https://www.youtube.com/watch?v=NNimt3IkR_A&ab_channel=DompteurMooner" width="1140" height="641" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<span style="height: 60px; display: block;"></span>
 
 
 Munich artist Emanuel Mooner / Neon Artist, Neon Art

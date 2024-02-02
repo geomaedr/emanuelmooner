@@ -8,9 +8,11 @@ col_size: 6
 style: portfolio
 ---
 Mizaru Kikazaru Iwazaru
+
 2015
 
 wood, drink cans dipped into carpaint
+
 size: circa 30x30x20cm
 
 300EUR

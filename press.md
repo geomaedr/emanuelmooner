@@ -16,5 +16,5 @@ style: press
 ![SZ Press](https://www.emanuelmooner.com/wp-content/uploads/2016/02/SZ_Mooner_2015_web.jpg)
 ![SZ Press](https://www.emanuelmooner.com/wp-content/uploads/2016/02/superpaper_2017.jpg)
 
-[![GMAM Interview 1999](https://www.emanuelmooner.com/wp-content/uploads/2020/01/beute1.jpeg)](https://www.emanuelmooner.com/portfolio/gmam/)
-**[GMAM Interview 1999](https://www.emanuelmooner.com/portfolio/gmam/)**
+[![GMAM Interview 1999](https://www.emanuelmooner.com/wp-content/uploads/2020/01/beute1.jpeg)](https://www.emanuelmooner.com/gmam-interview-1999/)
+**[GMAM Interview 1999](https://www.emanuelmooner.com/gmam-interview-1999/)**

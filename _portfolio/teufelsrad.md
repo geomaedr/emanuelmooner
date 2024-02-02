@@ -8,8 +8,11 @@ col_size: 6
 style: portfolio
 ---
 Teufelsrad
+
 2015
+
 wood, neon system
+
 size: 180 x 6500cm
 
 SOLD
@@ -25,6 +28,8 @@ SOLD
 ![Crash Door]({{ site.baseurl }}/uploads/2016/02/8M4A1265_web-1024x683.jpg)
 
 
-[![y]({{ site.baseurl }}/assets/vid_thumbnail/teufelsrad.jpg)](https://www.youtube.com/watch?v=MojdFLeyh-Y){: .vid-thumb}
+<span style="height: 30px; display: block;"></span>
+<p><iframe src="https://www.youtube.com/embed/MojdFLeyh-Y?rel=0" width="1140" height="641" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<span style="height: 60px; display: block;"></span>
 
 Munich artist Emanuel Mooner / Neon Artist, Neon Art

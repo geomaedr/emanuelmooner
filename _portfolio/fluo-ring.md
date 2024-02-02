@@ -10,6 +10,7 @@ style: portfolio
 2018
 
 wood, neon system
+
 450 EUR
 
 ![y]({{ site.baseurl }}/uploads/2016/03/IMG_0363_0.jpg)

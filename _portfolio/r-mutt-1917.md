@@ -8,18 +8,22 @@ col_size: 12
 style: portfolio
 ---
 R.Mutt 1917
+
 (Marcel Duchamp quote)
+
 2016
 
 plexiglass, neon system
+
 size ca 130x200cm
+
 1200 EUR
 
 ![y]({{ site.baseurl }}/uploads/2016/02/R-Mutt-1917-2-1024x681.jpg)
 
 ![y]({{ site.baseurl }}/uploads/2016/02/R-Mutt-1917-1024x685.jpg)
 
-[![y]({{ site.baseurl }}/assets/vid_thumbnail/r_mutt.jpg)](https://www.youtube.com/watch?v=KTTX38qaro0){: .vid-thumb}
-
+<p><span style="height: 30px; display: block;"></span><iframe src="https://www.youtube.com/embed/KTTX38qaro0?rel=0" width="1140" height="641" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<span style="height: 60px; display: block;"></span>
 
 Munich artist Emanuel Mooner / Neon Artist, Neon Art
