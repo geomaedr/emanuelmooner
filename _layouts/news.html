@@ -10,7 +10,8 @@ layout: default
         <p>—————————————————————<br>
             —————————————————————<br>
         {% assign news = site.news %}
-        {% for item in news | sort: 'news_nr' | reverse %}
+            <!--  | sort: 'news_nr' | reverse -->
+        {% for item in news %}
             {% if item.news_nr != -1 %}
             {{ item.content }}
             <p>—————————————————————<br>

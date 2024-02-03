@@ -39,14 +39,6 @@ a:focus {
 	}
 }
 
-.page-id-768 .page-title-block {
-	margin-top: 100px;
-}
-.page-id-768 .navigation-bar,
-.page-id-768 .copyright {
-	display: none;
-}
-
 .mz-home-link.ih-item.square, 
 .mz-home-link .img {
 	height: 275px;
