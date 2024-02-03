@@ -1,5 +1,6 @@
 ---
 title: Press
+permalink: /press/
 layout: default
 style: press
 ---

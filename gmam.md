@@ -1,6 +1,6 @@
 ---
-title: Press Kit Emanuel Mooner
-permalink: /press-kit/
+title: GMAM Interview 1999
+permalink: /gmam-interview-1999/
 layout: default
 ---
 Die Beute 1999
