@@ -5,6 +5,7 @@ news_nr: 3
 **Amanationen 2020** (Gruppenausstellung)
 
 **Emanuel Mooner – Ecojams Vol.1**  
+
 Rote Sonne, München, 10. März 2020 (Jahrestag von Fukushima)
 
 Ein junger Baum lebt unter einer verschlossenen Glasglocke.  

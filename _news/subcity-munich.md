@@ -7,7 +7,9 @@ news_nr: 11
 **Eine Aktion in den Kammerspielen München**
 
 Sub City Munich  
+
 Von urbanen Szenen, Raumpolitiken  
+
 und subversiven Strategien
 
 Mit Gabi Blum, Patrick Gruban, Emanuel Mooner und Matthias Stadler haben sich vier Münchner Künstler*innen,
