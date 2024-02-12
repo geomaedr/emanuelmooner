@@ -671,7 +671,7 @@ table td{
 }
 .total-overlay-sticky{
 	position: fixed;
-	top: -1400px;
+	top: -100vh;
 	opacity: 0;
 	left: 0px;
 	width: 100%;
