@@ -1,8 +1,7 @@
 ---
 title: News
-subtext: 
 permalink: /news/
-layout: default
+layout: news
 style: news
 ---
 N E W S // E X H I B I T I O N S // P R O J E C T S
