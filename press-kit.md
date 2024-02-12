@@ -44,14 +44,14 @@ Instagram: [@emanuelmooner](https://www.instagram.com/emanuelmooner/) [@dompteur
 
 PRESS PHOTOS (copyright Emanuel Mooner 2020)
 
-![y](https://www.emanuelmooner.com/wp-content/uploads/2020/07/Baugeld-30.jpg){: style="width: 100%;" }
+![y]({{ site.baseurl }}/uploads/2020/07/Baugeld-30.jpg){: style="width: 100%;" }
 
-[**HI RES TIFF**](https://www.emanuelmooner.com/wp-content/uploads/2020/07/Baugeld-35.tif.zip)
+[**HI RES TIFF**]({{ site.baseurl }}/uploads/2020/07/Baugeld-35.tif.zip)
 
-![y](https://www.emanuelmooner.com/wp-content/uploads/2020/07/Baugeld-35.jpg){: style="width: 100%;" }
+![y]({{ site.baseurl }}/uploads/2020/07/Baugeld-35.jpg){: style="width: 100%;" }
 
-**[HI RES TIFF](https://www.emanuelmooner.com/wp-content/uploads/2020/07/Baugeld-35.tif.zip)**
+**[HI RES TIFF]({{ site.baseurl }}/uploads/2020/07/Baugeld-35.tif.zip)**
 
-![y](https://www.emanuelmooner.com/wp-content/uploads/2020/06/IMG_8473-e1594025214446.jpg)
+![y]({{ site.baseurl }}/uploads/2020/06/IMG_8473-e1594025214446.jpg)
 
 Munich artist Emanuel Mooner / Neon Artist, Neon Art

@@ -19,7 +19,7 @@ N E W S // E X H I B I T I O N S // P R O J E C T S
 
 [LINK!](https://www.emanuelmooner.com/portfolio/reinwaschung)
 
-![Abbazia_di_Valvisciolo](https://www.emanuelmooner.com/wp-content/uploads/2020/01/1024px-Abbazia_di_Valvisciolo_15-e1654242603736.jpg)
+![Abbazia_di_Valvisciolo]({{ site.baseurl }}/uploads/2020/01/1024px-Abbazia_di_Valvisciolo_15-e1654242603736.jpg)
 
 
 —————————————————————
@@ -39,7 +39,7 @@ N E W S // E X H I B I T I O N S // P R O J E C T S
 
 **31.03 – 02.04.2022 im Studio D40**
 
-![Flyer](https://www.emanuelmooner.com/wp-content/uploads/2020/01/IMG_flyer-e1648794178868.jpeg)
+![Flyer]({{ site.baseurl }}/uploads/2020/01/IMG_flyer-e1648794178868.jpeg)
 
 *Caption: bty*
 
