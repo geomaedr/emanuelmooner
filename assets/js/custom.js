@@ -88,7 +88,7 @@ jQuery(document).ready(function ($) {
 
     $('.total-overlay-sticky-close').click(function () {
         $('.total-overlay-sticky').animate({
-            top: '--100vh',
+            top: '-100vh',
             opacity: 0
         }, 800, function () {
             $('.total-overlay-sticky #navigation .nav.navbar-nav > li > a').css({
