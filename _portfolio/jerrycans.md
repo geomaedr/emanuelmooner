@@ -5,6 +5,8 @@ subtext:
 image: "/uploads/2020/04/C125853E-6DB8-44E6-990C-072F80A355E2.jpg"
 col_size: 5
 style: portfolio
+redirect_from:
+  - /jerrycans/
 portfolio_nr: 42
 ---
 Jerrycans  

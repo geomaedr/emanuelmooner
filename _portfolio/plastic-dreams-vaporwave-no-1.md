@@ -6,6 +6,8 @@ image: "/uploads/2016/10/IMG_0980-e1476630824383.jpg"
 portfolio_nr: 3
 col_size: 7
 style: portfolio
+redirect_from:
+  - /plastic-dreams-vaporwave-no-1/
 ---
 SOLD
 

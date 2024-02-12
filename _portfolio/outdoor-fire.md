@@ -5,6 +5,8 @@ subtext:
 image: "/uploads/2017/11/IMG_7204.jpg"
 col_size: 5
 style: portfolio
+redirect_from:
+  - /outdoor-fire/
 portfolio_nr: 21
 ---
 outdoor fire for warmth and cooking  

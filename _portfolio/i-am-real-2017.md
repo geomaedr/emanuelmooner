@@ -5,6 +5,8 @@ subtext: "@EasyUpstream, Munich, mixed media"
 image: "/uploads/2017/07/IMG_1324.jpg"
 col_size: 7
 style: portfolio
+redirect_from:
+  - /i-am-real-2017/
 portfolio_nr: 19
 ---
 SOLD

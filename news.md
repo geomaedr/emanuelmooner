@@ -1,6 +1,8 @@
 ---
 title: News
 permalink: /news/
+redirect_from:
+  - /portfolio/news/
 layout: news
 style: news
 ---

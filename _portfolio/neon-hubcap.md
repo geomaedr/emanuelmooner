@@ -5,6 +5,8 @@ subtext:
 image: "/uploads/2020/11/P1020576-Kopie.jpg"
 col_size: 5
 style: portfolio
+redirect_from:
+  - /neon-hubcap/
 portfolio_nr: 47
 ---
 

@@ -5,6 +5,8 @@ subtext:
 image: "/uploads/2020/11/P1020553.jpg"
 col_size: 5
 style: portfolio
+redirect_from:
+  - /orange-milkshake/
 portfolio_nr: 50
 ---
 

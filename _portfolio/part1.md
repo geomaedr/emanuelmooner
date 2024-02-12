@@ -5,6 +5,8 @@ subtext:
 image: "/uploads/2019/04/IMG_2993.jpg"
 col_size: 3
 style: portfolio
+redirect_from:
+  - /part1/
 portfolio_nr: 29
 ---
 FREQUENZEN – Akustische Dimensionen der Stadt // Kunst im öffentlichen Raum 2019

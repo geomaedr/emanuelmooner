@@ -5,6 +5,8 @@ subtext: Plasma Morphium Kunst Latex Emanuel Mooner Kunstarkaden Neonart neonkun
 image: "/uploads/2018/10/DSC_0156.jpg"
 col_size: 5
 style: portfolio
+redirect_from:
+  - /plasmorphium/
 portfolio_nr: 23
 ---
 

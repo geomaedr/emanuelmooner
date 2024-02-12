@@ -5,6 +5,8 @@ subtext:
 image: "/uploads/2019/12/P1010155-e1576499423735.jpg"
 col_size: 5
 style: portfolio
+redirect_from:
+  - /phoenix/
 portfolio_nr: 32
 ---
 

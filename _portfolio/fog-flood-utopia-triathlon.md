@@ -6,6 +6,8 @@ image: "/uploads/2016/02/FogFlood.jpg"
 portfolio_nr: 14
 col_size: 6
 style: portfolio
+redirect_from:
+  - /fog-flood-utopia-triathlon/
 ---
 
 ![y]({{ site.baseurl }}/uploads/2016/02/FogFlood-1024x683.jpg)

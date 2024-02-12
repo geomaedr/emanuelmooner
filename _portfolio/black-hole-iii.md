@@ -5,6 +5,8 @@ subtext:
 image: "/uploads/2020/04/689A27F9-2176-4C27-B0F8-1D62C8D69920_web.jpg"
 col_size: 5
 style: portfolio
+redirect_from:
+  - /black-hole-iii/
 portfolio_nr: 39
 ---
 Black Hole III  

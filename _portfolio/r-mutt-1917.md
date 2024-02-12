@@ -6,6 +6,8 @@ image: "/uploads/2016/02/R-Mutt-1917-2.jpg"
 portfolio_nr: 12
 col_size: 12
 style: portfolio
+redirect_from:
+  - /r-mutt-1917/
 ---
 R.Mutt 1917
 

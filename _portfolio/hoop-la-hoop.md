@@ -5,6 +5,8 @@ subtext:
 image: "/uploads/2020/11/P1020673-Kopie.jpg"
 col_size: 5
 style: portfolio
+redirect_from:
+  - /hoop-la-hoop/
 portfolio_nr: 46
 ---
 Hoop La Hoop

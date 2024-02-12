@@ -6,6 +6,8 @@ image: "/uploads/2016/02/Today-Will-Be-A-Good-Day.jpg"
 portfolio_nr: 6
 col_size: 7
 style: portfolio
+redirect_from:
+  - /today-will-be-a-good-day/
 ---
 
 ![Crash Door]({{ site.baseurl }}/uploads/2016/02/Today-Will-Be-A-Good-Day.jpg)

@@ -5,6 +5,8 @@ subtext:
 image: "/uploads/2020/04/P1010411.jpg"
 col_size: 5
 style: portfolio
+redirect_from:
+  - /ring-vii-apx/
 portfolio_nr: 41
 ---
 Ring VII apx  

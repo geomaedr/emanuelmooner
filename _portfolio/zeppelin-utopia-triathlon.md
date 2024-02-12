@@ -6,6 +6,8 @@ image: "/uploads/2016/02/Zeppelin.jpg"
 portfolio_nr: 11
 col_size: 7
 style: portfolio
+redirect_from:
+  - /zeppelin-utopia-triathlon/
 ---
 
 ![Zeppelin]({{ site.baseurl }}/uploads/2016/02/Zeppelin.jpg)

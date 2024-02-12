@@ -5,6 +5,8 @@ subtext:
 image: "/uploads/2019/05/Mooner-Songs-Of-The-Siren-02-1.jpg"
 col_size: 5
 style: portfolio
+redirect_from:
+  - /part2/
 portfolio_nr: 30
 ---
 

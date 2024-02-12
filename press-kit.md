@@ -1,6 +1,8 @@
 ---
 title: Press Kit Emanuel Mooner
 permalink: /press-kit/
+redirect_from:
+  - /portfolio/press-kit-emanuel-mooner/
 layout: default
 ---
 **EMANUEL MOONER**

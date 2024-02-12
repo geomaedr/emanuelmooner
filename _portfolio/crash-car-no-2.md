@@ -5,6 +5,8 @@ subtext:
 image: "/uploads/2017/11/IMG_5701.jpg"
 col_size: 12
 style: portfolio
+redirect_from:
+  - /crash-car-no-2/
 portfolio_nr: 22
 ---
 

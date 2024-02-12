@@ -5,6 +5,8 @@ subtext: Kunst München Kunstarkdaden Emanuel Mooner Plasmonics Neonkunst Neon A
 image: "/uploads/2018/10/DSC_0053.jpg"
 col_size: 7
 style: portfolio
+redirect_from:
+  - /gluhwurmchen/
 portfolio_nr: 25
 ---
 
