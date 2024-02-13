@@ -30,12 +30,12 @@ Er geht dem Grenzbereich der Hörbarkeit nach, gepaart mit dem Spürsinn für di
 Your browser does not support the video tag.
 </video>
 
-![House of good Memories]({{ site.baseurl }}/wp-content/uploads/2019/04/IMG_2990.jpg)
+![House of good Memories]({{ site.baseurl }}/uploads/2019/04/IMG_2990.jpg)
 
-![House of good Memories]({{ site.baseurl }}/wp-content/uploads/2019/04/IMG_2992.jpg)
+![House of good Memories]({{ site.baseurl }}/uploads/2019/04/IMG_2992.jpg)
 
-![House of good Memories]({{ site.baseurl }}/wp-content/uploads/2019/04/IMG_2993.jpg)
+![House of good Memories]({{ site.baseurl }}/uploads/2019/04/IMG_2993.jpg)
 
-![House of good Memories]({{ site.baseurl }}/wp-content/uploads/2019/04/sz_sots_freimann.jpg)
+![House of good Memories]({{ site.baseurl }}/uploads/2019/04/sz_sots_freimann.jpg)
 
 Munich artist Emanuel Mooner / Neon Artist, Neon Art
