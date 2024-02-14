@@ -5,8 +5,6 @@ subtext:
 image: "/uploads/2020/11/P1020563-Kopie.jpg"
 col_size: 5
 style: portfolio
-redirect_from:
-  - /mandarine-milk/
 portfolio_nr: 49
 ---
 

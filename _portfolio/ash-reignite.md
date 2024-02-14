@@ -6,8 +6,6 @@ image: "/uploads/2016/02/Ash-Reignite.jpg"
 portfolio_nr: 4
 col_size: 12
 style: portfolio
-redirect_from:
-  - /ash-reignite/
 ---
 
 ![y]({{ site.baseurl }}/uploads/2016/02/Ash-Reignite-1024x683.jpg)

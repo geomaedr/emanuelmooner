@@ -5,8 +5,6 @@ subtext:
 image: "/uploads/2020/11/P1020651-Kopie.jpg"
 col_size: 5
 style: portfolio
-redirect_from:
-  - /blue-milkshake/
 portfolio_nr: 48
 ---
 

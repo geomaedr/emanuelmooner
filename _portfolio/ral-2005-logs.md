@@ -5,8 +5,6 @@ subtext:
 image: "/uploads/2020/04/P1010303.jpg"
 col_size: 5
 style: portfolio
-redirect_from:
-  - /ral-2005-logs/
 portfolio_nr: 34
 ---
 Ral 2005 Logs  

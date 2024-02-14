@@ -5,8 +5,6 @@ subtext:
 image: "/uploads/2020/04/IMG_6829-e1605001232938.jpg"
 col_size: 5
 style: portfolio
-redirect_from:
-  - /hook-series/
 portfolio_nr: 37
 ---
 Hook Series  

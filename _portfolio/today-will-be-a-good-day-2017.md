@@ -6,8 +6,6 @@ image: "/uploads/2017/08/IMG_1350_web.jpg"
 portfolio_nr: 13
 col_size: 7
 style: portfolio
-redirect_from:
-  - /today-will-be-a-good-day-2017/
 ---
 Today Will Be A Good Day  
 2017  

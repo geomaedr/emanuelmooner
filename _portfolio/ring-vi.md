@@ -5,8 +5,6 @@ subtext:
 image: "/uploads/2019/12/Emanuel_Mooner_Austellung122019DSC_3832-e1605001679354.jpg"
 col_size: 7
 style: portfolio
-redirect_from:
-  - /ring-vi/
 portfolio_nr: 30
 ---
 

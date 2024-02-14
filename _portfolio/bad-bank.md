@@ -5,8 +5,6 @@ subtext:
 image: "/uploads/2020/04/P1010292.jpg"
 col_size: 5
 style: portfolio
-redirect_from:
-  - /bad-bank/
 portfolio_nr: 35
 ---
 

@@ -5,8 +5,6 @@ subtext: Kunst München Kunstarkaden Emanuel Mooner Neonkunst Neonart Munich Piz
 image: "/uploads/2018/10/DSC_0097.jpg"
 col_size: 5
 style: portfolio
-redirect_from:
-  - /burnt-pizza/
 portfolio_nr: 26
 ---
 

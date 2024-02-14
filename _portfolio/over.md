@@ -5,8 +5,6 @@ subtext:
 image: "/uploads/2019/12/IMG_2998-e1605001615872.jpg"
 col_size: 5
 style: portfolio
-redirect_from:
-  - /over/
 portfolio_nr: 33
 ---
 

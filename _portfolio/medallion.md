@@ -5,8 +5,6 @@ subtext:
 image: "/uploads/2017/11/IMG_5682.jpg"
 col_size: 7
 style: portfolio
-redirect_from:
-  - /medallion/
 portfolio_nr: 20
 ---
 Medallion  

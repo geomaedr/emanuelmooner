@@ -6,8 +6,6 @@ image: "/uploads/2016/02/DSC9918_edit_web.jpg"
 portfolio_nr: 9
 col_size: 5
 style: portfolio
-redirect_from:
-  - /hands-in-the-dark/
 ---
 
 ![y]({{ site.baseurl }}/uploads/2016/02/Hands-In-The-Dark-1024x681.jpg)

@@ -6,8 +6,6 @@ image: "/uploads/2016/02/Teufelsrad.jpg"
 portfolio_nr: 8
 col_size: 6
 style: portfolio
-redirect_from:
-  - /teufelsrad/
 ---
 Teufelsrad
 

@@ -6,8 +6,6 @@ image: "/uploads/2016/03/IMG_0363_0.jpg"
 portfolio_nr: 5
 col_size: 5
 style: portfolio
-redirect_from:
-  - /fluo-ring/
 ---
 2018
 

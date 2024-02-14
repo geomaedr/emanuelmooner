@@ -5,8 +5,6 @@ subtext: Kunst München Amorph Neonart neonkunst Emanuel Mooner Kunstarkaden Pla
 image: "/uploads/2018/10/DSC_0050-1.jpg"
 col_size: 12
 style: portfolio
-redirect_from:
-  - /amorphium/
 portfolio_nr: 27
 ---
 

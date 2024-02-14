@@ -5,8 +5,6 @@ subtext:
 image: "/uploads/2018/10/DSC_0123.jpg"
 col_size: 5
 style: portfolio
-redirect_from:
-  - /ecto-chamber-2018/
 portfolio_nr: 24
 ---
 
