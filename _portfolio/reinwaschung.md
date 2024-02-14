@@ -7,6 +7,7 @@ image: "/uploads/2022/09/P1030263_small.jpeg"
 col_size: 5
 style: portfolio
 redirect_from:
+  - /reinwaschung
   - /reinwaschung/
 portfolio_nr: 52
 ---
