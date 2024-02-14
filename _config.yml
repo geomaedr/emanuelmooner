@@ -42,12 +42,10 @@ jekyll_admin:
   homepage: "pages"
 
 collections:
-  news:
-    sidebar_label: news
-    output: true
   portfolio:
     output: true
     sidebar_label: portfolio
+    permalink: /:collection/:name/
 
 # Exclude from processing.
 # The following items will not be processed, by default.
