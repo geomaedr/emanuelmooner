@@ -16,6 +16,8 @@ Price: 900 EUR
 
 shown at Light/House, München 2020
 
+SOLD
+
 ![y]({{ site.baseurl }}/uploads/2019/12/Emanuel_Mooner_Austellung122019DSC_3832.jpg)
 
 ![x]({{ site.baseurl }}/uploads/2019/12/Emanuel_Mooner_Austellung122019DSC_3830.jpg)

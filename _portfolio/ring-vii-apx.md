@@ -12,7 +12,9 @@ Ring VII apx
 
 Material: zinc coated metal, paint,  
 Size: ca 60x90cm  
-price on request (please use the mail below;)
+
+SOLD
+
 
 ![y]({{ site.baseurl }}/uploads/2020/04/P1010411.jpg)
 
