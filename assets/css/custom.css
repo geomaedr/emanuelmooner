@@ -21,9 +21,13 @@ a:focus {
 	.ih-item.square.effect6 .info {
 		display: none;
 	}
-	.ih-item.square.effect6 a:hover .info,
+	.ih-item.square.effect6 a:hover .info {
+		display: block;
+	}
     .mz-home-link.square.effect6 a .info {
 		display: block;
+        opacity: 1;
+        visibility: visible;
 	}
 }
 
