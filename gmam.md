@@ -38,3 +38,5 @@ Artist talk 07. March 2020
 Munich artist Emanuel Mooner / Neon Artist, Neon Art
 
 GMAM (Gewesene Mechanismen Androide Mutationen) 1999 Subkultur München
+
+————————————————————
