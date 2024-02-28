@@ -7,11 +7,11 @@ GMAM war eine lose Performancegruppe, gegründet 1992 in München, bis ca. 2000 
 
 Gründungsmitglieder u.a.:
 
-    Isabel Reiß, Viola Thiele, Piotr Cyplik, Emanuel Mooner, Andreas Dihm, Mandla Reuter, Andi Arbeit, Bela Lee, Wolfgang Kirsch.
+Isabel Reiß, Viola Thiele, Piotr Cyplik, Emanuel Mooner, Andreas Dihm, Mandla Reuter, Andi Arbeit, Bela Lee, Wolfgang Kirsch.
 
 Später dabei:
 
-    Benjamin Bergmann, Carolin Gödeke, Klara Hobza, Marjana Corak, Catriona Shaw, Peter Buchheit, Jana Korb , David Sandreuter
+Benjamin Bergmann, Carolin Gödeke, Klara Hobza, Marjana Corak, Catriona Shaw, Peter Buchheit, Jana Korb , David Sandreuter
 
 ————————————————————
 
