@@ -15,7 +15,7 @@ wood, neon system
 
 size: 180 x 6500cm
 
-SOLD
+This work will be shown at Stadtmuseum München after their re-opening.
 
 ![Crash Door]({{ site.baseurl }}/uploads/2016/02/Teufelsrad-1024x768.jpg)
 
