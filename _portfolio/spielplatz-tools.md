@@ -15,11 +15,6 @@ This series of tools is designed for children.
 Mooner´s sense of sustainability alarmed him, when he saw, most children use plastic or one-time-use toys.
 For the heavy use on playgrounds, he sampled the classic aluminium shovel and turned it into a design object that is strong enough for many days of use.
 
-
-
-
-More Info via mail or want to join the newsletter? please use the mail below;
-
 ![y]({{ site.baseurl }}/uploads/2024/02/_spielplatz_toys_1500px/P1030229.jpg)
 
  ![y]({{ site.baseurl }}/uploads/2024/02/_spielplatz_toys_1500px/P1030231.jpg)
@@ -27,5 +22,10 @@ More Info via mail or want to join the newsletter? please use the mail below;
  ![y]({{ site.baseurl }}/uploads/2024/02/_spielplatz_toys_1500px/P1030232.jpg)
 
  ![y]({{ site.baseurl }}/uploads/2024/02/_spielplatz_toys_1500px/P1030239.jpg)
+
+
+More Info via mail or want to join the newsletter? please use the mail below;
+
+
 
  
