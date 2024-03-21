@@ -2,7 +2,7 @@
 title: Spielplatz Tools
 layout: portfolio
 subtext: 
-image: "/tinyjpgs/P1030231_kl.jpg"
+image: "/tinyjpgs/IMG_3142_kl.jpg"
 col_size: 7
 style: portfolio
 portfolio_nr: 51
