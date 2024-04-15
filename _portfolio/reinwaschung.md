@@ -18,7 +18,7 @@ The exhibition consists of a site-specific installation and a series of sculptur
 
 ![y]({{ site.baseurl }}/uploads/2024/02/reinwaschung1500px/P1030298.jpg)
 
-![y]({{ site.baseurl }}/uploads/2022/09/P1030167_small.jpeg) 
+![y]({{ site.baseurl }}/uploads/2024/02/reinwaschung1500px/P1030276.jpg) 
 
 ![y]({{ site.baseurl }}/uploads/2022/09/P1030183_small.jpeg)
 
