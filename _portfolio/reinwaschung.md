@@ -20,7 +20,9 @@ The exhibition consists of a site-specific installation and a series of sculptur
 
 ![y]({{ site.baseurl }}/uploads/2024/02/reinwaschung1500px/P1030276.jpg) 
 
-![y]({{ site.baseurl }}/uploads/2022/09/P1030183_small.jpeg)
+![y]({{ site.baseurl }}/uploads/2024/02/reinwaschung1500px/P1030276.jpg)
+
+![y]({{ site.baseurl }}/uploads/2024/02/reinwaschung1500px/P1030276.jpg)
 
 The term “ablution” (reinwaschung in German) is used in Catholic liturgy and in several religions - such as Judaic, Muslim or Hindu religion - to indicate a ceremonial act of washing one's body with wather to achieve spiritual purification. 
 
