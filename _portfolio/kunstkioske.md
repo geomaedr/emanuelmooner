@@ -31,7 +31,7 @@ ganz ohne Eintrittspreise und Öffnungszeiten.
 Sie bieten Kunst für Eilige, Wartende,Umherirrende, Vorbeigehende und tragen somit das Kunsterlebnis mitten in die Gesellschaft. 
 In dem sich KUNST KIOSKE von einem klassischen musealen Ausstellungskonzept lösen, kommt es zu einer neuen Wertschätzung von Or- ten, die unbeachtet brachliegen.
 
-![Sub Bavaria]({{ site.baseurl }}/uploads/2024/02/sub-bavaria1280px/IMG_5678.jpg)
+![Wegen Überfüllung Geschlossen]({{ site.baseurl }}/uploads/2024/02/kunstkioske1500px/TOB_0062.jpg)
 
 
 
