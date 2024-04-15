@@ -2,21 +2,20 @@
 title: Christmas Candles
 layout: portfolio
 subtext: 
-image: "/tinyjpgs/IMG_3142_kl.jpg"
+image: "tinyjpgs/candles-P1030318_kl.jpg"
 col_size: 7
 style: portfolio
-portfolio_nr: 52
+portfolio_nr: 50
 ---
 
-Barbiewire (2022)
+Christmas Candles (2022)
 
 Artist Emanuel Mooner focuses on ancient tools, their history, and their symbolism.
 
-These basic instruments are manipulated or artistically changed, so they can´t be used anymore in their original sense.
+Since 2019, Mooner uses only pre-owned and pre-used materials, due to his 11-point manifesto.
 
-Barbiewire is a mix of two words: Barbwire and Barbie.
-The use of Barbwire is mostly military. The lavender colored coating transforms it into a un-manly, un-usable tool.
-This work was Mooner´s first public response to the russian-ukrainian conflict in February 2022.
+These candles are made of empty softdrink cans (drunken by artist) and re-cooked candle wax made from pre-used candles.
+The cans were sandblasted and powdercoated.
 
 
 
