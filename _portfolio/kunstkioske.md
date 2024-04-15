@@ -22,7 +22,7 @@ Es ist ein Kopfnicken an die erste Nachtclub-Unternehmerin Regina Zylberberg, di
 wie sie das geschafft hat? Durch die kurze Notiz „Wegen Überfüllung geschlossen“ am Eröffnungsabend ihres ersten Clubs. 
 Mooners Arbeit ist ein Glanzstück der umgekehrten Psychologie.
 
-![Sub Bavaria]({{ site.baseurl }}/uploads/2024/02/sub-bavaria1280px/IMG_5673.jpg)
+![Kunstkioske]({{ site.baseurl }}/uploads/2024/02/kunstkioske1500px/DSCF8090 1.jpg)
 
 Ursprünglich als kommerzielle Orte der Bedarfsdeckung konzipiert, stehen inzwischen Kioske an zahlreichen Münchner U-Bahnhöfen aufgrund geplanter Bautätigkeiten, sowie gestiegener Sicherheits- und Brandschutzanforderungen, leer. 
 Bis die Sanierungen an den jeweiligen Standorten ausgeführt werden, haben die Stadtwerke München zehn Kioske für künstlerische Projekte freigegeben. 
