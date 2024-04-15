@@ -8,12 +8,12 @@ style: portfolio
 portfolio_nr: 57
 ---
 
-**Kunstkioske**
-**Wegen Überfüllung Geschlossen**
+**NUR FÜR STAMMGÄSTE**
+**Kunst im öffentlichen Raum 2024**
 
-20. September 2023 bis 6. Januar 2024 im U-Bahn Netz München
+Stadtraum München
 
-**„Wegen Überfüllung geschlossen“** ist eine akustische Arbeit an den Grenzen von Kunst, Musik und Gesellschaft. 
+**NUR FÜR STAMMGÄSTE** ist eine Arbeit an den Grenzen von Kunst und Gesellschaft. 
 
 Die Zuschauer*innen nehmen an einem temporären Prozess teil, der Fragen aufwirft. 
 
@@ -27,18 +27,18 @@ wie sie das geschafft hat?
 Durch die kurze Notiz „Wegen Überfüllung geschlossen“ am Eröffnungsabend ihres ersten Clubs -
 Mooners Arbeit ist ein Glanzstück der umgekehrten Psychologie.
 
-![Kunstkioske]({{ site.baseurl }}/uploads/2024/02/kunstkioske1500px/DSCF8090 1.jpg)
+![Nur Für Stammgäste!]({{ site.baseurl }}/uploads/2024/02/nurfürstammgäste1500px/IMG_0074.jpg)
 
-Ursprünglich als kommerzielle Orte der Bedarfsdeckung konzipiert, stehen inzwischen Kioske an zahlreichen Münchner U-Bahnhöfen aufgrund geplanter Bautätigkeiten, sowie gestiegener Sicherheits- und Brandschutzanforderungen, leer. 
-Bis die Sanierungen an den jeweiligen Standorten ausgeführt werden, haben die Stadtwerke München zehn Kioske für künstlerische Projekte freigegeben. 
-Ziel der KUNST KIOSKE ist Künstler*innen an einem wichtigen Dreh- und Angelpunkt des öffentlichen Lebens Platz und Gehör zu verschaffen – 
-ganz ohne Eintrittspreise und Öffnungszeiten. 
-Sie bieten Kunst für Eilige, Wartende,Umherirrende, Vorbeigehende und tragen somit das Kunsterlebnis mitten in die Gesellschaft. 
-In dem sich KUNST KIOSKE von einem klassischen musealen Ausstellungskonzept lösen, kommt es zu einer neuen Wertschätzung von Or- ten, die unbeachtet brachliegen.
+Ursprünglich als Türschilder in Münchner Clubs und Diskotheken benutzt, ist die Aussage "Nur für Stammgäste" eines DER Synonyme für die Münchnener Schickeria:
+Die harte Türpolitik der Szene schloss Andersartige aus unter dem Vorwand der Exklusivität.
+These signs were used by many clubs in Schickeria Munich until the late 90s to let people know, we have a HARD DOOR policy.
+Who can COME IN and WHO NOT? A political very up-to-date issue. In this project the closed doors aren´t clubs, but abandones places in Munich, and these doors are closed against CHANGE.All buildings have a story and there is always a good reason for vacancy. But the places I´ve chosen are empty since many years. 
 
 ![Wegen Überfüllung Geschlossen]({{ site.baseurl }}/uploads/2024/02/kunstkioske1500px/TOB_0062.jpg)
 
+For more and updated information of this project, please hop over to my Instagram account: @emanuelmooner
 
+www.instagram.com/emanuelmooner
 
 ![Wegen Überfüllung Geschlossen]({{ site.baseurl }}/uploads/2024/02/kunstkioske1500px/DSCF8090 1.jpg)
 
@@ -49,7 +49,7 @@ In dem sich KUNST KIOSKE von einem klassischen musealen Ausstellungskonzept lös
 
 - - -
 
-
+Instagram: @emanuelmooner
 
 
 More Info via mail or want to join the newsletter? please use the mail below;
