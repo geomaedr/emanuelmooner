@@ -1,5 +1,5 @@
 ---
-title: Spielplatz Tools
+title: Barbiewire
 layout: portfolio
 subtext: 
 image: "/tinyjpgs/IMG_3142_kl.jpg"
@@ -8,7 +8,7 @@ style: portfolio
 portfolio_nr: 51
 ---
 
-Spielplatz Tools
+Barbiewire (2022)
 
 Artist Emanuel Mooner focuses on ancient tools, their history, and their symbolism.
 
