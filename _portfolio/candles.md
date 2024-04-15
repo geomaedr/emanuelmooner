@@ -22,6 +22,6 @@ The cans were sandblasted and powdercoated.
 
 ![y]({{ site.baseurl }}/uploads/2024/02/candles1500px/P1030306.jpg)
 
- ![y]({{ site.baseurl }}/uploads/2024/02/barbiewire1500px/IMG_3142.jpg)
+ ![y]({{ site.baseurl }}/uploads/2024/02/candles1500px/P1030318.jpg)
 
 
