@@ -2,7 +2,7 @@
 title: Sub Bavaria
 layout: portfolio
 subtext: mit Gabi Blum, Patrick Gruban, Emanuel Mooner und Matthias Stadler
-image: "/uploads/2021/05/P1030036.jpg"
+image: "/tinyjpgs/sub-bavaria_Aufkleber.jpeg"
 col_size: 7
 style: portfolio
 portfolio_nr: 54
