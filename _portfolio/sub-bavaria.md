@@ -15,7 +15,10 @@ mit Gabi Blum, Patrick Gruban, Emanuel Mooner und Matthias Stadler
 
 Begleitend zur Ausstellung „Exzentrische 80er: Tabea Blumenschein, Hilka Nordhausen, Rabe Perplexum und Kompliz:innen aus dem Jetzt“ in der Lothringer 13 Halle landet 
 Sub-bavaria  "Das Büro" im Herbst 2022 im Lothringer 13 Laden. 
-Dort wurde das temporäre Büro und Archiv aufgebaut und weiter bearbeitet. 
+Dort wurde das temporäre Büro und (Online-) Archiv aufgebaut und weiter bearbeitet. 
+
+![Sub Bavaria]({{ site.baseurl }}/uploads/2016/02/Teufelsrad-1024x768.jpg)
+
 Protagonist: innen der Subkultur aus München und ganz Bayern wurden eingeladen, interviewt und zusammengebracht, gemeinsam wurden Texte für das Online Archiv www.sub-bavaria.de verfasst, 
 sowie neue Autor:innen für das Projekt gewonnen die an Editoren Abenden zusammen kamen. 
 Das Büro hat in dem dreiwöchigen Zeitraum den verschiedenen Szenen in Bayern diesen temporären Treffpunkt zur Verfügung gestellt und sie wieder neu vernetzt. 
