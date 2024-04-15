@@ -15,17 +15,9 @@ Stadtraum München
 
 **NUR FÜR STAMMGÄSTE** ist eine Arbeit an den Grenzen von Kunst und Gesellschaft. 
 
-Die Zuschauer*innen nehmen an einem temporären Prozess teil, der Fragen aufwirft. 
+Türschilder werden an Türen geschlossener Orte montiert, die zwar das Potenzial für eine Nutzung bergen, aber durch Politik, Spekulation und Instutitionen zurückgehalten oder verschlossen gehalten werden. 
 
-In dem leerstehenden Kiosk wird ein Raum im Raum gebaut, der aus abgedunkelten Spiegelwänden besteht. 
 
-Angelockt durch aus dem Inneren heraus leuchtende Lichter, dem dumpfen Bass und unverständlichen Gesprächsfetzen wird der oder die Vorbeigehende aber abgewiesen: 
-die Location ist nicht nur „wegen Überfüllung geschlossen“, sondern auch noch „Nur für Stammgäste“. 
-Ein Seitenhieb an die Exklusivität der Münchner Club-Kultur? 
-Es ist ein Kopfnicken an die erste Nachtclub-Unternehmerin Regina Zylberberg, die in den 1950ern einen Treffpunkt der Pariser crème de la crème schuf - 
-wie sie das geschafft hat? 
-Durch die kurze Notiz „Wegen Überfüllung geschlossen“ am Eröffnungsabend ihres ersten Clubs -
-Mooners Arbeit ist ein Glanzstück der umgekehrten Psychologie.
 
 ![Nur Für Stammgäste!]({{ site.baseurl }}/uploads/2024/02/nurfürstammgäste1500px/IMG_0074.jpg)
 
