@@ -16,7 +16,7 @@ portfolio_nr: 52
 
 The exhibition consists of a site-specific installation and a series of sculptures made of marine plastic debris, through which the artist reflects on environmental sustainability choices in our daily life, especially in light of the water crisis that affects all of Europe.
 
-![y]({{ site.baseurl }}/uploads/2022/09/P1030263_small.jpeg)
+![y]({{ site.baseurl }}/uploads/2024/02/reinwaschung1500px/P1030298.jpg)
 
 ![y]({{ site.baseurl }}/uploads/2022/09/P1030167_small.jpeg) 
 
