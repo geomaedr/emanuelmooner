@@ -25,6 +25,9 @@ Das Büro hat in dem dreiwöchigen Zeitraum den verschiedenen Szenen in Bayern d
 Das komplette sub-bavaria Archiv wurde ausgedruckt und vor Ort analog gelesen und weiter bearbeitet, zudem wurde eine digitale Karte in die Homepage eingefügt auf der die subkulturellen Orte in Bayern eingetragen werden können. 
 
 Zum Auftakt des Büros fand am 13.10. eine Einzugsprozession statt und um 19 Uhr ein Round Table zur Münchner Subkultur mit Diskurspartner*innen aus den 80ern und dem Heute. 
+
+![Sub Bavaria]({{ site.baseurl }}/uploads/2024/02/sub-bavaria1280px/IMG_5678.jpg)
+
 Gabi Blum (Sekretärin bei sub-bavaria), Holger Dreissig (Monokultur München) und Felix Flemmer (ZIRKA) diskutierten gemeinsam mit Mareike Schwarz zur Entwicklung, den Potenzialen und Herausforderungen von subkulturellen Initiativen vor Ort. 
 
 Das Team des sub-bavaria Büro unternahm Ausflüge zu aktuellen und ehemaligen subkulturellen Orten in Bayern, u.a. nach Gammelsdorf in Niederbayern wo der einst legendäre Circus Gammelsdorf stand, sowie nach Augsburg mit Fischsuppe und vielen Gesprächen mit verschiedenen Protagonist:innenen. 
