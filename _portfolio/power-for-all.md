@@ -10,8 +10,11 @@ portfolio_nr: 51
 
 Power For All
 
-Eröffnung: 15. Juni 2021, 19 Uhr Helfenriederstr. gegenüber Hausnummer 6, 81379 München (Sugarmountain, ehem. Katzenberger Betonwerk)    
-Dauer des Projektes: 15. Juni – 15. September 2021, 24 Stunden zugänglich .
+Sugarmountain, ehem. Katzenberger Betonwerk
+
+Eröffnung: 15. Juni 2021   
+Dauer des Projektes: 15. Juni – 15. September 2021
+24 Stunden zugänglich
 
 Wettbewerbs-Gewinner der vom bayerischen Staatsministerium für Wissenschaft und Kunst und dem BBK Bayern ausgelobten Ausschreibung “Kunst Für Uns“.
 
