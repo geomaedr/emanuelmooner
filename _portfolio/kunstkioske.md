@@ -5,7 +5,7 @@ subtext: Kunstkioske - Art in public places
 image: "/tinyjpgs/sub-bavaria_Aufkleber.jpeg"
 col_size: 7
 style: portfolio
-portfolio_nr: 55
+portfolio_nr: 56
 ---
 
 **Kunstkioske**
@@ -39,7 +39,9 @@ In dem sich KUNST KIOSKE von einem klassischen musealen Ausstellungskonzept lös
 
 
 
-![Sub Bavaria]({{ site.baseurl }}/uploads/2024/02/sub-bavaria1280px/IMG_9476.jpg)
+![Emanuel Mooner]({{ site.baseurl }}/uploads/2024/02/kunstkioske1500px/_0127.jpg)
+
+
 - - -
 
 
