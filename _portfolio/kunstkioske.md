@@ -35,7 +35,7 @@ In dem sich KUNST KIOSKE von einem klassischen musealen Ausstellungskonzept lös
 
 
 
-![Sub Bavaria]({{ site.baseurl }}/uploads/2024/02/sub-bavaria1280px/IMG_9119.jpg)
+![Wegen Überfüllung Geschlossen]({{ site.baseurl }}/uploads/2024/02/kunstkioske1500px/DSCF8090 1.jpg)
 
 
 
