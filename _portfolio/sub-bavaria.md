@@ -30,6 +30,9 @@ Zum Auftakt des Büros fand am 13.10. eine Einzugsprozession statt und um 19 
 
 Gabi Blum (Sekretärin bei sub-bavaria), Holger Dreissig (Monokultur München) und Felix Flemmer (ZIRKA) diskutierten gemeinsam mit Mareike Schwarz zur Entwicklung, den Potenzialen und Herausforderungen von subkulturellen Initiativen vor Ort. 
 
+![Sub Bavaria]({{ site.baseurl }}/uploads/2024/02/sub-bavaria1280px/IMG_9119.jpg)
+
+
 Das Team des sub-bavaria Büro unternahm Ausflüge zu aktuellen und ehemaligen subkulturellen Orten in Bayern, u.a. nach Gammelsdorf in Niederbayern wo der einst legendäre Circus Gammelsdorf stand, sowie nach Augsburg mit Fischsuppe und vielen Gesprächen mit verschiedenen Protagonist:innenen. 
 Robert Hofmann, ein Münchner Urgestein, führte am 27.10. eine Gruppe Interessierte zu aktuellen und vergangenen subkulturellen Orten in Haidhausen
 Am 5.11. fand das große Finale vor Ort statt, mit Open Mic, live Interviews und einem Konzert der Igitte Schwestern. 
