@@ -17,7 +17,7 @@ Begleitend zur Ausstellung „Exzentrische 80er: Tabea Blumenschein, Hilka Nordh
 Sub-bavaria  "Das Büro" im Herbst 2022 im Lothringer 13 Laden. 
 Dort wurde das temporäre Büro und (Online-) Archiv aufgebaut und weiter bearbeitet. 
 
-![Sub Bavaria]({{ site.baseurl }}/uploads/2016/02/Teufelsrad-1024x768.jpg)
+![Sub Bavaria]({{ site.baseurl }}/uploads/2024/02/sub-bavaria1280px/IMG_5673.jpg)
 
 Protagonist: innen der Subkultur aus München und ganz Bayern wurden eingeladen, interviewt und zusammengebracht, gemeinsam wurden Texte für das Online Archiv www.sub-bavaria.de verfasst, 
 sowie neue Autor:innen für das Projekt gewonnen die an Editoren Abenden zusammen kamen. 
