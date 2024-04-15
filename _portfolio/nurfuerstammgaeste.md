@@ -2,7 +2,7 @@
 title: NUR FÜR STAMMGÄSTE
 layout: portfolio
 subtext: Kunst im öffentlichen Raum - Art in public places
-image: "/tinyjpgs/DSCF8080 2_kl.jpg"
+image: "/tinyjpgs/IMG_9303_kl.jpg"
 col_size: 7
 style: portfolio
 portfolio_nr: 57
