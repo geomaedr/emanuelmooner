@@ -1,8 +1,8 @@
 ---
 title: Reinwaschung / Abluzione
 layout: portfolio
-subtext: Audio Installation. PVC, air liquide, reel-to-reel machines. as part of Utopia
-  Triathlon, munich, 2014
+subtext: Site specific Installation. Art in Public Places
+2022
 image: "/uploads/2022/09/P1030263_small.jpeg"
 col_size: 5
 style: portfolio
@@ -13,6 +13,7 @@ portfolio_nr: 52
 ---
 
 **Reinwaschung / Abluzione**
+**Monastery of the Valvisciolo Abbey**, Sermoneta (Italy), south of Rome
 
 The exhibition consists of a site-specific installation and a series of sculptures made of marine plastic debris, through which the artist reflects on environmental sustainability choices in our daily life, especially in light of the water crisis that affects all of Europe.
 
@@ -49,9 +50,9 @@ Still, clean water flows from the well as it would do from a fountain, bubbling 
 Perfectly cleansed up and useless as they are now, the plastic pieces become an example for a new kind of ablution which brings no spiritual purification, but a daily warning to make sustainable choice and to take more care of our tired ecosystem.
 
 
-26. November 2022 until: 06. January 2023, pen 24 hrs.
+26. November 2022 until: 06. January 2023, open 24 hrs.
 
-**Monastery of the Valvisciolo Abbey**, Sermoneta (Italy), south of Rome
+
 
 Part of the European Week of Waste Reduction:    
 [https://ewwr.eu/](https://ewwr.eu/)
