@@ -2,7 +2,7 @@
 title: Wegen Überfüllung Geschlossen
 layout: portfolio
 subtext: Kunstkioske - Art in public places
-image: "/tinyjpgs/DSCF8080 2_kl.jpg"
+image: "/uploads/2024/02/kunstkioske1500px/TOB_0062.jpg"
 col_size: 7
 style: portfolio
 portfolio_nr: 56
