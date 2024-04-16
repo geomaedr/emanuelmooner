@@ -48,8 +48,10 @@ In dem sich KUNST KIOSKE von einem klassischen musealen Ausstellungskonzept lös
 
 
 - - -
+Press:
+https://www.br.de/nachrichten/kultur/kunstkioske-in-muenchen-leerstand-als-leinwand,TqZxdA4
 
-
+https://www.sueddeutsche.de/muenchen/muenchen-u-bahn-kiosk-kunst-1.6247078?reduced=true
 
 
 More Info via mail or want to join the newsletter? please use the mail below;
