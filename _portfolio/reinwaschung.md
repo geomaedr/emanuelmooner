@@ -20,8 +20,6 @@ The exhibition consists of a site-specific installation and a series of sculptur
 
 ![y]({{ site.baseurl }}/uploads/2024/02/reinwaschung1500px/P1030276.jpg) 
 
-![y]({{ site.baseurl }}/uploads/2024/02/reinwaschung1500px/P1030276.jpg)
-
 ![y]({{ site.baseurl }}/uploads/2024/02/reinwaschung1500px/P1030272.jpg)
 
 The term “ablution” (reinwaschung in German) is used in Catholic liturgy and in several religions - such as Judaic, Muslim or Hindu religion - to indicate a ceremonial act of washing one's body with wather to achieve spiritual purification. 
@@ -47,6 +45,7 @@ Likewise, Mooner's installation asks the viewers one deep look inside. People ar
 Still, clean water flows from the well as it would do from a fountain, bubbling up through the waste. Building up an imagery entirely made of water and plastic, Mooner tries to point out the serious conditions which currently affects the natural environment, the urge of actions based on civic sense and respect for nature and the negative effects of industrial overproduction. The plastic collected from the sea becomes the mirror of contemporary society, of consumerism and bad habits. 
 
 Perfectly cleansed up and useless as they are now, the plastic pieces become an example for a new kind of ablution which brings no spiritual purification, but a daily warning to make sustainable choice and to take more care of our tired ecosystem.
+
 
 
 26. November 2022 until: 06. January 2023, open 24 hrs.
