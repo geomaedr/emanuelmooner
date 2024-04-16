@@ -2,7 +2,7 @@
 title: Hoop La Hoop
 layout: portfolio
 subtext: 
-image: "/uploads/2020/11/P1020673-Kopie.jpg"
+image: "/tinyjpgs/hoopLahoopSmall.jpg"
 col_size: 5
 style: portfolio
 portfolio_nr: 46
