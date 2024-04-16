@@ -2,7 +2,7 @@
 title: Reinwaschung / Abluzione
 layout: portfolio
 subtext: Site specific Installation - Art in Public Places
-image: "/uploads/2022/09/P1030263_small.jpeg"
+image: "/tinyjpgs/P1030285_kl.jpg"
 col_size: 5
 style: portfolio
 redirect_from:
