@@ -5,7 +5,7 @@ subtext:
 image: "/tinyjpgs/bluemilk_small.JPG"
 col_size: 5
 style: portfolio
-portfolio_nr: 48
+portfolio_nr: 46
 ---
 
 BLUE MILKSHAKE
