@@ -2,7 +2,7 @@
 title: Mandarine Milkshake
 layout: portfolio
 subtext: 
-image: "/tinyjpgs/mandarinmilk-small.JPG"
+image: "/tinyjpgs/x-mandarinmilk-small.JPG"
 col_size: 5
 style: portfolio
 portfolio_nr: 45
