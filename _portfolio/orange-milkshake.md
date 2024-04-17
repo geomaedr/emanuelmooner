@@ -2,7 +2,7 @@
 title: Orange Milkshake
 layout: portfolio
 subtext: 
-image: "/tinyjpgs/orangemilk-small.jpg"
+image: "/tinyjpgs/x-orangemilk-small.jpg"
 col_size: 5
 style: portfolio
 portfolio_nr: 42
