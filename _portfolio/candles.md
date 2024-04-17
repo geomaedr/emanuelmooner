@@ -2,7 +2,7 @@
 title: Christmas Candles
 layout: portfolio
 subtext: 
-image: "tinyjpgs/candles-P1030318_kl.jpg"
+image: "tinyjpgs/x-P1030306.JPG"
 col_size: 7
 style: portfolio
 portfolio_nr: 53
