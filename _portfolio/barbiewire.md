@@ -5,7 +5,7 @@ subtext:
 image: "/tinyjpgs/IMG_3142_kl.jpg"
 col_size: 7
 style: portfolio
-portfolio_nr: 52
+portfolio_nr: 50
 ---
 
 Barbiewire (2022)
