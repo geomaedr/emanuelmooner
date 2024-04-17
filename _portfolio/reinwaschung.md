@@ -8,7 +8,7 @@ style: portfolio
 redirect_from:
   - /reinwaschung
   - /reinwaschung/
-portfolio_nr: 52
+portfolio_nr: 55
 ---
 
 **Reinwaschung / Abluzione**
