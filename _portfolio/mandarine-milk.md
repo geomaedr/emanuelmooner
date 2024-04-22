@@ -13,7 +13,8 @@ Mandarine Milkshake
 2020
 
 Mandarine Milkshake is part of the Neoncore series.  
-For this series of mixed media objects i treat metal floor panels with a powdercoating of two colors. The paint is finsihed with a transparent layer, so the colors stay vivid.  
+For this series of mixed media objects i treat metal floor panels with a powdercoating of two colors. 
+The paint is finished with a transparent layer, so the colors stay vivid.  
 Onto the panels, freeform neons are attached.  
 The neons are handmade by a neonglass blower.
 
