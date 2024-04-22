@@ -12,6 +12,40 @@ style: news
 
 —————————————————————
 
+New Project **NUR FÜR STAMMGÄSTE** in Munich 2024
+Find out more about this project reflecting the #lostplaces of Munich!
+
+[LINK!](https://www.emanuelmooner.com/portfolio/nurfuerstammgaeste.md)
+
+
+**NEONCORE**
+Exhibition in St.Gallen, Switzlerland at legendary store **KLANG UND KLEID**
+
+[LINK!](https://www.platform-muenchen.de/projekte/kunst-kioske/](https://www.klangundkleid.ch/))
+
+—————————————————————
+
+—————————————————————
+
+New project!!! **KUNST KIOSKE** in abandoned Munich subway shops. 
+[LINK!]([https://www.emanuelmooner.com/portfolio/reinwaschung](https://www.platform-muenchen.de/projekte/kunst-kioske/))
+
+
+
+—————————————————————
+
+—————————————————————
+
+Emanuel Mooner is taking part in group exhibition / art fair in Ibiza. 
+—————————————————————
+
+—————————————————————
+
+**ART FOR RENT**
+
+No money to buy art? Not enough space to own art? You can rent my art! Write an e-mail on the artwork you´d like!
+
+
 **_Exhibition near Rome in Autumn coming up_**
 
 **Very proud to be able to communicate that Emanuel Mooner is preparing an exhibition at the 1200 year old**
