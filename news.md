@@ -12,6 +12,14 @@ style: news
 
 —————————————————————
 
+Very proud to communicate Emanuel Mooner is working on a **KUNST AM BAU** project in Munich.
+More soon.
+
+
+—————————————————————
+
+—————————————————————
+
 New Project **NUR FÜR STAMMGÄSTE** in Munich 2024
 Find out more about this project reflecting the #lostplaces of Munich!
 
