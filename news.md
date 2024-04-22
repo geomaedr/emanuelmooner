@@ -48,6 +48,7 @@ New project!!! **KUNST KIOSKE** in abandoned Munich subway shops.
 —————————————————————
 
 Emanuel Mooner is taking part in group exhibition / art fair in Ibiza. 
+
 —————————————————————
 
 —————————————————————
@@ -55,6 +56,7 @@ Emanuel Mooner is taking part in group exhibition / art fair in Ibiza.
 **ART FOR RENT**
 
 No money to buy art? Not enough space to own art? You can rent my art! Write an e-mail on the artwork you´d like!
+
 —————————————————————
 
 —————————————————————
