@@ -5,7 +5,7 @@ subtext:
 image: "/tinyjpgs/x-P1020579 Kopie.JPG"
 col_size: 5
 style: portfolio
-portfolio_nr: 47
+portfolio_nr: 40
 ---
 
 Neon Hubcap
