@@ -25,6 +25,9 @@ Find out more about this project reflecting the #lostplaces of Munich!
 
 [LINK!](https://www.emanuelmooner.com/portfolio/nurfuerstammgaeste.md)
 
+—————————————————————
+
+—————————————————————
 
 **NEONCORE**
 Exhibition in St.Gallen, Switzlerland at legendary store **KLANG UND KLEID**
