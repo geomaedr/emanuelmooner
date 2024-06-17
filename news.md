@@ -23,7 +23,7 @@ More soon.
 New Project **NUR FÜR STAMMGÄSTE** in Munich 2024
 Find out more about this project reflecting the #lostplaces of Munich!
 
-[LINK!](https://www.emanuelmooner.com/portfolio/nurfuerstammgaeste.md)
+[LINK!]([https://emanuelmooner.com/portfolio/nurfuerstammgaeste/])(https://emanuelmooner.com/portfolio/nurfuerstammgaeste/)
 
 —————————————————————
 
