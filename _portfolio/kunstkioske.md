@@ -44,7 +44,7 @@ In dem sich KUNST KIOSKE von einem klassischen musealen Ausstellungskonzept lös
 
 
 
-![Emanuel Mooner]({{ site.baseurl }}/uploads/2024/02/kunstkioske1500px/_0127.jpg)
+![Emanuel Mooner]({{ site.baseurl }}/uploads/2024/02/kunstkioske1500px/0127.jpg)
 
 
 - - -
