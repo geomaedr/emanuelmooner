@@ -8,6 +8,42 @@ style: news
 ---
 **N E W S // E X H I B I T I O N S // P R O J E C T S**
 
+KulturDonnerstag Gebrüder Keller&Erben
+solo show NEONCORE#3
+
+Vernissage Donnerstag 05.12.2024 um 18:00 Uhr
+
+Ausstellung 05.12. - 19.12. 2024
+Kenzestr.1 / München
+—————————————————————
+
+—————————————————————
+
+MITBRINGEN. MITNEHMEN
+BBK-MITGLIEDER STELLEN AUS 2024
+07.12.24 - 11.01.15
+
+
+ERÖFFNUNG
+Sa 07.12.2024
+18 - 22 Uhr
+Eintritt frei
+
+19:00 Uhr
+Begrüßung
+Alexander Steig (Vorstandsvorsitz BBK München und Oberbayern)
+Angela Stiegler (Antidiskriminierungsbeauftragte BBK München und Oberbayern)
+Vergabe Generationenpreis an Rita De Muynck
+Anna Schölß (Ausstellungskommission BBK München und Oberbayern)
+
+GALERIE DER KÜNSTLER*INNEN
+Maximilianstraße 42 
+80538 München
+
+Mi, Fr - So: 11 - 18 Uhr
+Do: 13 - 20 Uhr
+an Feiertagen geschlossen
+
 —————————————————————
 
 —————————————————————
