@@ -2,7 +2,7 @@
 title: BLUE MILKSHAKE
 layout: portfolio
 subtext: 
-image: "/tinyjpgs/x-bluemilk_small.JPG"
+image: "/tinyjpgs/bluemilk_small.JPG"
 col_size: 5
 style: portfolio
 portfolio_nr: 46
