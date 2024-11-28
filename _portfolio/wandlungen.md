@@ -2,7 +2,7 @@
 title: Wandlungen
 layout: portfolio
 subtext: 
-image: "/tinyjpgs/wandlungentiny01.jpg.jpg"
+image: "/tinyjpgs/wandlungentiny01.jpg"
 portfolio_nr: 48
 col_size: 5
 style: portfolio
