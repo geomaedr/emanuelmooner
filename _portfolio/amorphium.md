@@ -2,7 +2,7 @@
 title: Amorphium
 layout: portfolio
 subtext: Kunst München Amorph Neonart neonkunst Emanuel Mooner Kunstarkaden Plasmonics
-image: "/uploads/2018/10/DSC_0050-1.jpg"
+image: "/uploads/2018/10/DSC_0050-1_tiny.jpg"
 col_size: 12
 style: portfolio
 portfolio_nr: 27
