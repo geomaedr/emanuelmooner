@@ -56,6 +56,10 @@ section .row .mz-home-link.ih-item.square:not(.effect1) .info h3:after {
 	height: 0;
 }
 
+.mz-portfolio-listing-img {
+    object-fit: cover;
+    object-position: center;
+}
 
 /* Portfolio Detail */
 .post-share {
