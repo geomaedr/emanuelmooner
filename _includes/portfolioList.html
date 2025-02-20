@@ -9,8 +9,54 @@
                             <div class="ih-item ZXYfIoBgNw square effect6 bottom_to_top" data-cats="[]">
                                 <a href="{{ site.baseurl }}{{item.url}}" class="" data-type="">
                                     <div class="img">
-                                     <img class="mz-portfolio-listing-img" src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt{{item.image}}?width={{item.col_size | times:150}}" loading="lazy" />
+                                        <picture>
+                                            <!-- Large screens -->
+                                            <source
+                                            media="(min-width: 1200px)"
+                                            srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt{{ item.image }}?width={{ item.col_size | times: 100 }}"
+                                            type="image/webp"
+                                            />
+                                            <source
+                                            media="(min-width: 1200px)"
+                                            srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt{{ item.image }}?width={{ item.col_size | times: 100 }}"
+                                            type="image/jpeg"
+                                            />
+
+                                            <!-- Medium screens -->
+                                            <source
+                                            media="(min-width: 768px)"
+                                            srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt{{ item.image }}?width={{ item.col_size | times: 66 }}"
+                                            type="image/webp"
+                                            />
+                                            <source
+                                            media="(min-width: 768px)"
+                                            srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt{{ item.image }}?width={{ item.col_size | times: 66 }}"
+                                            type="image/jpeg"
+                                            />
+
+                                            <!-- Small screens -->
+                                            <source
+                                            media="(max-width: 767px)"
+                                            srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt{{ item.image }}?width={{ item.col_size | times: 33 }}"
+                                            type="image/webp"
+                                            />
+                                            <source
+                                            media="(max-width: 767px)"
+                                            srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt{{ item.image }}?width={{ item.col_size | times: 33 }}"
+                                            type="image/jpeg"
+                                            />
+
+                                            <!-- Fallback image -->
+                                            <img
+                                            class="mz-portfolio-listing-img"
+                                            src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt{{ item.image }}?width={{ item.col_size | times: 100 }}"
+                                            loading="lazy"
+                                            alt="Portfolio image"
+                                            style="width: 100%; height: auto;"
+                                            />
+                                        </picture>
                                     </div>
+
                                     <div class="info">
                                         <div class="info-holder middle center">
                                             <h3> {{item.title}} </h3>
