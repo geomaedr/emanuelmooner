@@ -57,8 +57,10 @@ section .row .mz-home-link.ih-item.square:not(.effect1) .info h3:after {
 }
 
 .mz-portfolio-listing-img {
+    height: 100%;
     object-fit: cover;
     object-position: center;
+    width: 100%;
 }
 
 /* Portfolio Detail */
