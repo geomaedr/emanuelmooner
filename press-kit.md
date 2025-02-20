@@ -44,14 +44,158 @@ Instagram: [@emanuelmooner](https://www.instagram.com/emanuelmooner/) [@dompteur
 
 PRESS PHOTOS (copyright Emanuel Mooner 2020)
 
-![y]({{ site.baseurl }}/uploads/2020/07/Baugeld-30.jpg){: style="width: 100%;" }
+<picture>
+    <source
+    media="(min-width: 1200px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/07/Baugeld-30.jpg?width=1500&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(min-width: 1200px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/07/Baugeld-30.jpg?width=1500"
+    type="image/jpeg"
+    />
+    <source
+    media="(min-width: 768px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/07/Baugeld-30.jpg?width=1200&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(min-width: 768px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/07/Baugeld-30.jpg?width=1200"
+    type="image/jpeg"
+    />
+    <source
+    media="(max-width: 767px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/07/Baugeld-30.jpg?width=800&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(max-width: 767px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/07/Baugeld-30.jpg?width=800"
+    type="image/jpeg"
+    />
+    <source
+    media="(max-width: 576px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/07/Baugeld-30.jpg?width=600&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(max-width: 576px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/07/Baugeld-30.jpg?width=600"
+    type="image/jpeg"
+    />
+
+    <!-- Fallback image -->
+    <img
+    src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/07/Baugeld-30.jpg?width=1200"
+    loading="lazy"
+    
+    />
+</picture>{: style="width: 100%;" }
 
 [**HI RES TIFF**]({{ site.baseurl }}/uploads/2020/07/Baugeld-35.tif.zip)
 
-![y]({{ site.baseurl }}/uploads/2020/07/Baugeld-35.jpg){: style="width: 100%;" }
+<picture>
+    <source
+    media="(min-width: 1200px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/07/Baugeld-35.jpg?width=1500&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(min-width: 1200px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/07/Baugeld-35.jpg?width=1500"
+    type="image/jpeg"
+    />
+    <source
+    media="(min-width: 768px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/07/Baugeld-35.jpg?width=1200&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(min-width: 768px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/07/Baugeld-35.jpg?width=1200"
+    type="image/jpeg"
+    />
+    <source
+    media="(max-width: 767px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/07/Baugeld-35.jpg?width=800&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(max-width: 767px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/07/Baugeld-35.jpg?width=800"
+    type="image/jpeg"
+    />
+    <source
+    media="(max-width: 576px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/07/Baugeld-35.jpg?width=600&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(max-width: 576px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/07/Baugeld-35.jpg?width=600"
+    type="image/jpeg"
+    />
+
+    <!-- Fallback image -->
+    <img
+    src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/07/Baugeld-35.jpg?width=1200"
+    loading="lazy"
+    
+    />
+</picture>{: style="width: 100%;" }
 
 **[HI RES TIFF]({{ site.baseurl }}/uploads/2020/07/Baugeld-35.tif.zip)**
 
-![y]({{ site.baseurl }}/uploads/2020/06/IMG_8473-e1594025214446.jpg)
+<picture>
+    <source
+    media="(min-width: 1200px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/06/IMG_8473-e1594025214446.jpg?width=1500&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(min-width: 1200px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/06/IMG_8473-e1594025214446.jpg?width=1500"
+    type="image/jpeg"
+    />
+    <source
+    media="(min-width: 768px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/06/IMG_8473-e1594025214446.jpg?width=1200&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(min-width: 768px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/06/IMG_8473-e1594025214446.jpg?width=1200"
+    type="image/jpeg"
+    />
+    <source
+    media="(max-width: 767px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/06/IMG_8473-e1594025214446.jpg?width=800&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(max-width: 767px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/06/IMG_8473-e1594025214446.jpg?width=800"
+    type="image/jpeg"
+    />
+    <source
+    media="(max-width: 576px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/06/IMG_8473-e1594025214446.jpg?width=600&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(max-width: 576px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/06/IMG_8473-e1594025214446.jpg?width=600"
+    type="image/jpeg"
+    />
+
+    <!-- Fallback image -->
+    <img
+    src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/06/IMG_8473-e1594025214446.jpg?width=1200"
+    loading="lazy"
+    
+    />
+</picture>
 
 Munich artist Emanuel Mooner / Neon Artist, Neon Art

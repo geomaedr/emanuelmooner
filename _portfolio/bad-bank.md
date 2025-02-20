@@ -20,14 +20,249 @@ He offers his customers to pick up their beertables and bring them back shiny an
 Distinctive is the color neon-orange, a reference to ambulances, fire engines, and simply as a signal color for warnings and danger.  
 The wood is planed and oiled to resist water and abrasion. The table legs are sandblasted and powdercoated.
 
-![y]({{ site.baseurl }}/uploads/2020/04/P1010292.jpg)
+<picture>
+    <source
+    media="(min-width: 1200px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/04/P1010292.jpg?width=1500&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(min-width: 1200px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/04/P1010292.jpg?width=1500"
+    type="image/jpeg"
+    />
+    <source
+    media="(min-width: 768px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/04/P1010292.jpg?width=1200&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(min-width: 768px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/04/P1010292.jpg?width=1200"
+    type="image/jpeg"
+    />
+    <source
+    media="(max-width: 767px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/04/P1010292.jpg?width=800&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(max-width: 767px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/04/P1010292.jpg?width=800"
+    type="image/jpeg"
+    />
+    <source
+    media="(max-width: 576px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/04/P1010292.jpg?width=600&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(max-width: 576px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/04/P1010292.jpg?width=600"
+    type="image/jpeg"
+    />
+    <!-- Fallback image -->
+    <img
+    src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/04/P1010292.jpg?width=1200"
+    loading="lazy"
 
-![c]({{ site.baseurl }}/uploads/2020/04/P1010291.jpg)
+    />
+</picture>
 
-![c]({{ site.baseurl }}/uploads/2020/04/P1010301.jpg)
+<picture>
+    <source
+    media="(min-width: 1200px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/04/P1010291.jpg?width=1500&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(min-width: 1200px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/04/P1010291.jpg?width=1500"
+    type="image/jpeg"
+    />
+    <source
+    media="(min-width: 768px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/04/P1010291.jpg?width=1200&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(min-width: 768px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/04/P1010291.jpg?width=1200"
+    type="image/jpeg"
+    />
+    <source
+    media="(max-width: 767px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/04/P1010291.jpg?width=800&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(max-width: 767px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/04/P1010291.jpg?width=800"
+    type="image/jpeg"
+    />
+    <source
+    media="(max-width: 576px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/04/P1010291.jpg?width=600&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(max-width: 576px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/04/P1010291.jpg?width=600"
+    type="image/jpeg"
+    />
+    <!-- Fallback image -->
+    <img
+    src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/04/P1010291.jpg?width=1200"
+    loading="lazy"
+    alt="c"
+    />
+</picture>
 
-![c]({{ site.baseurl }}/uploads/2020/04/P1010293.jpg)
+<picture>
+    <source
+    media="(min-width: 1200px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/04/P1010301.jpg?width=1500&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(min-width: 1200px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/04/P1010301.jpg?width=1500"
+    type="image/jpeg"
+    />
+    <source
+    media="(min-width: 768px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/04/P1010301.jpg?width=1200&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(min-width: 768px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/04/P1010301.jpg?width=1200"
+    type="image/jpeg"
+    />
+    <source
+    media="(max-width: 767px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/04/P1010301.jpg?width=800&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(max-width: 767px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/04/P1010301.jpg?width=800"
+    type="image/jpeg"
+    />
+    <source
+    media="(max-width: 576px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/04/P1010301.jpg?width=600&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(max-width: 576px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/04/P1010301.jpg?width=600"
+    type="image/jpeg"
+    />
+    <!-- Fallback image -->
+    <img
+    src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/04/P1010301.jpg?width=1200"
+    loading="lazy"
+    alt="c"
+    />
+</picture>
 
-![c]({{ site.baseurl }}/uploads/2020/04/P1010287.jpg)
+<picture>
+    <source
+    media="(min-width: 1200px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/04/P1010293.jpg?width=1500&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(min-width: 1200px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/04/P1010293.jpg?width=1500"
+    type="image/jpeg"
+    />
+    <source
+    media="(min-width: 768px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/04/P1010293.jpg?width=1200&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(min-width: 768px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/04/P1010293.jpg?width=1200"
+    type="image/jpeg"
+    />
+    <source
+    media="(max-width: 767px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/04/P1010293.jpg?width=800&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(max-width: 767px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/04/P1010293.jpg?width=800"
+    type="image/jpeg"
+    />
+    <source
+    media="(max-width: 576px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/04/P1010293.jpg?width=600&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(max-width: 576px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/04/P1010293.jpg?width=600"
+    type="image/jpeg"
+    />
+    <!-- Fallback image -->
+    <img
+    src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/04/P1010293.jpg?width=1200"
+    loading="lazy"
+    alt="c"
+    />
+</picture>
+
+<picture>
+    <source
+    media="(min-width: 1200px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/04/P1010287.jpg?width=1500&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(min-width: 1200px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/04/P1010287.jpg?width=1500"
+    type="image/jpeg"
+    />
+    <source
+    media="(min-width: 768px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/04/P1010287.jpg?width=1200&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(min-width: 768px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/04/P1010287.jpg?width=1200"
+    type="image/jpeg"
+    />
+    <source
+    media="(max-width: 767px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/04/P1010287.jpg?width=800&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(max-width: 767px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/04/P1010287.jpg?width=800"
+    type="image/jpeg"
+    />
+    <source
+    media="(max-width: 576px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/04/P1010287.jpg?width=600&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(max-width: 576px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/04/P1010287.jpg?width=600"
+    type="image/jpeg"
+    />
+    <!-- Fallback image -->
+    <img
+    src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/04/P1010287.jpg?width=1200"
+    loading="lazy"
+    alt="c"
+    />
+</picture>
 
 Munich artist Emanuel Mooner / Neon Artist, Neon Art

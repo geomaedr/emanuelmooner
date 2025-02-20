@@ -21,12 +21,200 @@ Material: powdercoated metal, spraypaint, diamond cut lights
 Size: 60x90cm  
 price on request (please use the mail below;)
 
-![y]({{ site.baseurl }}/uploads/2020/11/P1020576-Kopie.jpg)
+<picture>
+    <source
+    media="(min-width: 1200px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/11/P1020576-Kopie.jpg?width=1500&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(min-width: 1200px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/11/P1020576-Kopie.jpg?width=1500"
+    type="image/jpeg"
+    />
+    <source
+    media="(min-width: 768px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/11/P1020576-Kopie.jpg?width=1200&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(min-width: 768px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/11/P1020576-Kopie.jpg?width=1200"
+    type="image/jpeg"
+    />
+    <source
+    media="(max-width: 767px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/11/P1020576-Kopie.jpg?width=800&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(max-width: 767px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/11/P1020576-Kopie.jpg?width=800"
+    type="image/jpeg"
+    />
+    <source
+    media="(max-width: 576px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/11/P1020576-Kopie.jpg?width=600&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(max-width: 576px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/11/P1020576-Kopie.jpg?width=600"
+    type="image/jpeg"
+    />
+    <!-- Fallback image -->
+    <img
+    src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/11/P1020576-Kopie.jpg?width=1200"
+    loading="lazy"
 
-![y]({{ site.baseurl }}/uploads/2020/11/P1020580-Kopie.jpg)
+    />
+</picture>
 
-![y]({{ site.baseurl }}/uploads/2020/11/P1020581-Kopie.jpg)
+<picture>
+    <source
+    media="(min-width: 1200px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/11/P1020580-Kopie.jpg?width=1500&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(min-width: 1200px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/11/P1020580-Kopie.jpg?width=1500"
+    type="image/jpeg"
+    />
+    <source
+    media="(min-width: 768px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/11/P1020580-Kopie.jpg?width=1200&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(min-width: 768px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/11/P1020580-Kopie.jpg?width=1200"
+    type="image/jpeg"
+    />
+    <source
+    media="(max-width: 767px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/11/P1020580-Kopie.jpg?width=800&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(max-width: 767px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/11/P1020580-Kopie.jpg?width=800"
+    type="image/jpeg"
+    />
+    <source
+    media="(max-width: 576px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/11/P1020580-Kopie.jpg?width=600&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(max-width: 576px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/11/P1020580-Kopie.jpg?width=600"
+    type="image/jpeg"
+    />
+    <!-- Fallback image -->
+    <img
+    src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/11/P1020580-Kopie.jpg?width=1200"
+    loading="lazy"
 
-![y]({{ site.baseurl }}/uploads/2020/11/P1020582-Kopie.jpg)
+    />
+</picture>
+
+<picture>
+    <source
+    media="(min-width: 1200px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/11/P1020581-Kopie.jpg?width=1500&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(min-width: 1200px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/11/P1020581-Kopie.jpg?width=1500"
+    type="image/jpeg"
+    />
+    <source
+    media="(min-width: 768px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/11/P1020581-Kopie.jpg?width=1200&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(min-width: 768px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/11/P1020581-Kopie.jpg?width=1200"
+    type="image/jpeg"
+    />
+    <source
+    media="(max-width: 767px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/11/P1020581-Kopie.jpg?width=800&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(max-width: 767px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/11/P1020581-Kopie.jpg?width=800"
+    type="image/jpeg"
+    />
+    <source
+    media="(max-width: 576px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/11/P1020581-Kopie.jpg?width=600&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(max-width: 576px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/11/P1020581-Kopie.jpg?width=600"
+    type="image/jpeg"
+    />
+    <!-- Fallback image -->
+    <img
+    src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/11/P1020581-Kopie.jpg?width=1200"
+    loading="lazy"
+
+    />
+</picture>
+
+<picture>
+    <source
+    media="(min-width: 1200px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/11/P1020582-Kopie.jpg?width=1500&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(min-width: 1200px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/11/P1020582-Kopie.jpg?width=1500"
+    type="image/jpeg"
+    />
+    <source
+    media="(min-width: 768px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/11/P1020582-Kopie.jpg?width=1200&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(min-width: 768px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/11/P1020582-Kopie.jpg?width=1200"
+    type="image/jpeg"
+    />
+    <source
+    media="(max-width: 767px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/11/P1020582-Kopie.jpg?width=800&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(max-width: 767px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/11/P1020582-Kopie.jpg?width=800"
+    type="image/jpeg"
+    />
+    <source
+    media="(max-width: 576px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/11/P1020582-Kopie.jpg?width=600&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(max-width: 576px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/11/P1020582-Kopie.jpg?width=600"
+    type="image/jpeg"
+    />
+    <!-- Fallback image -->
+    <img
+    src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/11/P1020582-Kopie.jpg?width=1200"
+    loading="lazy"
+
+    />
+</picture>
 
 (C) Munich artist Emanuel Mooner / Neon Artist, Neon Art

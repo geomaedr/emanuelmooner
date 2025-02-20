@@ -33,17 +33,299 @@ Stillgelegten Orte sind seit langem Ausgangspunkt der Arbeiten Emanuel Mooners:S
 
 More Info via mail or want to join the newsletter? please use the mail below;
 
-![y]({{ site.baseurl }}/uploads/2021/05/P1030036.jpg)
+<picture>
+    <source
+    media="(min-width: 1200px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2021/05/P1030036.jpg?width=1500&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(min-width: 1200px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2021/05/P1030036.jpg?width=1500"
+    type="image/jpeg"
+    />
+    <source
+    media="(min-width: 768px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2021/05/P1030036.jpg?width=1200&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(min-width: 768px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2021/05/P1030036.jpg?width=1200"
+    type="image/jpeg"
+    />
+    <source
+    media="(max-width: 767px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2021/05/P1030036.jpg?width=800&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(max-width: 767px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2021/05/P1030036.jpg?width=800"
+    type="image/jpeg"
+    />
+    <source
+    media="(max-width: 576px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2021/05/P1030036.jpg?width=600&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(max-width: 576px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2021/05/P1030036.jpg?width=600"
+    type="image/jpeg"
+    />
+    <!-- Fallback image -->
+    <img
+    src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2021/05/P1030036.jpg?width=1200"
+    loading="lazy"
 
- ![y]({{ site.baseurl }}/uploads/2021/05/P1030038.jpg)
+    />
+</picture>
 
- ![y]({{ site.baseurl }}/uploads/2021/05/P1030039.jpg)
+ <picture>
+    <source
+    media="(min-width: 1200px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2021/05/P1030038.jpg?width=1500&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(min-width: 1200px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2021/05/P1030038.jpg?width=1500"
+    type="image/jpeg"
+    />
+    <source
+    media="(min-width: 768px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2021/05/P1030038.jpg?width=1200&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(min-width: 768px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2021/05/P1030038.jpg?width=1200"
+    type="image/jpeg"
+    />
+    <source
+    media="(max-width: 767px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2021/05/P1030038.jpg?width=800&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(max-width: 767px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2021/05/P1030038.jpg?width=800"
+    type="image/jpeg"
+    />
+    <source
+    media="(max-width: 576px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2021/05/P1030038.jpg?width=600&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(max-width: 576px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2021/05/P1030038.jpg?width=600"
+    type="image/jpeg"
+    />
+    <!-- Fallback image -->
+    <img
+    src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2021/05/P1030038.jpg?width=1200"
+    loading="lazy"
 
- ![y]({{ site.baseurl }}/uploads/2021/05/P1030045.jpg)
+    />
+</picture>
 
- ![y]({{ site.baseurl }}/uploads/2021/05/P1030052.jpg)
+ <picture>
+    <source
+    media="(min-width: 1200px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2021/05/P1030039.jpg?width=1500&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(min-width: 1200px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2021/05/P1030039.jpg?width=1500"
+    type="image/jpeg"
+    />
+    <source
+    media="(min-width: 768px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2021/05/P1030039.jpg?width=1200&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(min-width: 768px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2021/05/P1030039.jpg?width=1200"
+    type="image/jpeg"
+    />
+    <source
+    media="(max-width: 767px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2021/05/P1030039.jpg?width=800&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(max-width: 767px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2021/05/P1030039.jpg?width=800"
+    type="image/jpeg"
+    />
+    <source
+    media="(max-width: 576px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2021/05/P1030039.jpg?width=600&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(max-width: 576px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2021/05/P1030039.jpg?width=600"
+    type="image/jpeg"
+    />
+    <!-- Fallback image -->
+    <img
+    src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2021/05/P1030039.jpg?width=1200"
+    loading="lazy"
 
- ![y]({{ site.baseurl }}/uploads/2021/05/P1030050.jpg)
+    />
+</picture>
+
+ <picture>
+    <source
+    media="(min-width: 1200px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2021/05/P1030045.jpg?width=1500&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(min-width: 1200px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2021/05/P1030045.jpg?width=1500"
+    type="image/jpeg"
+    />
+    <source
+    media="(min-width: 768px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2021/05/P1030045.jpg?width=1200&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(min-width: 768px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2021/05/P1030045.jpg?width=1200"
+    type="image/jpeg"
+    />
+    <source
+    media="(max-width: 767px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2021/05/P1030045.jpg?width=800&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(max-width: 767px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2021/05/P1030045.jpg?width=800"
+    type="image/jpeg"
+    />
+    <source
+    media="(max-width: 576px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2021/05/P1030045.jpg?width=600&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(max-width: 576px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2021/05/P1030045.jpg?width=600"
+    type="image/jpeg"
+    />
+    <!-- Fallback image -->
+    <img
+    src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2021/05/P1030045.jpg?width=1200"
+    loading="lazy"
+
+    />
+</picture>
+
+ <picture>
+    <source
+    media="(min-width: 1200px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2021/05/P1030052.jpg?width=1500&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(min-width: 1200px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2021/05/P1030052.jpg?width=1500"
+    type="image/jpeg"
+    />
+    <source
+    media="(min-width: 768px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2021/05/P1030052.jpg?width=1200&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(min-width: 768px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2021/05/P1030052.jpg?width=1200"
+    type="image/jpeg"
+    />
+    <source
+    media="(max-width: 767px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2021/05/P1030052.jpg?width=800&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(max-width: 767px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2021/05/P1030052.jpg?width=800"
+    type="image/jpeg"
+    />
+    <source
+    media="(max-width: 576px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2021/05/P1030052.jpg?width=600&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(max-width: 576px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2021/05/P1030052.jpg?width=600"
+    type="image/jpeg"
+    />
+    <!-- Fallback image -->
+    <img
+    src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2021/05/P1030052.jpg?width=1200"
+    loading="lazy"
+
+    />
+</picture>
+
+ <picture>
+    <source
+    media="(min-width: 1200px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2021/05/P1030050.jpg?width=1500&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(min-width: 1200px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2021/05/P1030050.jpg?width=1500"
+    type="image/jpeg"
+    />
+    <source
+    media="(min-width: 768px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2021/05/P1030050.jpg?width=1200&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(min-width: 768px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2021/05/P1030050.jpg?width=1200"
+    type="image/jpeg"
+    />
+    <source
+    media="(max-width: 767px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2021/05/P1030050.jpg?width=800&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(max-width: 767px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2021/05/P1030050.jpg?width=800"
+    type="image/jpeg"
+    />
+    <source
+    media="(max-width: 576px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2021/05/P1030050.jpg?width=600&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(max-width: 576px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2021/05/P1030050.jpg?width=600"
+    type="image/jpeg"
+    />
+    <!-- Fallback image -->
+    <img
+    src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2021/05/P1030050.jpg?width=1200"
+    loading="lazy"
+
+    />
+</picture>
 
 (C) Munich artist Emanuel Mooner / Neon Artist, Neon Art
 

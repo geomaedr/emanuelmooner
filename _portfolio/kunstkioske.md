@@ -27,7 +27,54 @@ wie sie das geschafft hat?
 Durch die kurze Notiz „Wegen Überfüllung geschlossen“ am Eröffnungsabend ihres ersten Clubs -
 Mooners Arbeit ist ein Glanzstück der umgekehrten Psychologie.
 
-![Kunstkioske]({{ site.baseurl }}/uploads/2024/02/kunstkioske1500px/DSCF8090 1.jpg)
+<picture>
+    <source
+    media="(min-width: 1200px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2024/02/kunstkioske1500px/DSCF8090 1.jpg?width=1500&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(min-width: 1200px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2024/02/kunstkioske1500px/DSCF8090 1.jpg?width=1500"
+    type="image/jpeg"
+    />
+    <source
+    media="(min-width: 768px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2024/02/kunstkioske1500px/DSCF8090 1.jpg?width=1200&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(min-width: 768px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2024/02/kunstkioske1500px/DSCF8090 1.jpg?width=1200"
+    type="image/jpeg"
+    />
+    <source
+    media="(max-width: 767px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2024/02/kunstkioske1500px/DSCF8090 1.jpg?width=800&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(max-width: 767px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2024/02/kunstkioske1500px/DSCF8090 1.jpg?width=800"
+    type="image/jpeg"
+    />
+    <source
+    media="(max-width: 576px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2024/02/kunstkioske1500px/DSCF8090 1.jpg?width=600&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(max-width: 576px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2024/02/kunstkioske1500px/DSCF8090 1.jpg?width=600"
+    type="image/jpeg"
+    />
+    <!-- Fallback image -->
+    <img
+    src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2024/02/kunstkioske1500px/DSCF8090 1.jpg?width=1200"
+    loading="lazy"
+    alt="Kunstkioske"
+    />
+</picture>
 
 Ursprünglich als kommerzielle Orte der Bedarfsdeckung konzipiert, stehen inzwischen Kioske an zahlreichen Münchner U-Bahnhöfen aufgrund geplanter Bautätigkeiten, sowie gestiegener Sicherheits- und Brandschutzanforderungen, leer. 
 Bis die Sanierungen an den jeweiligen Standorten ausgeführt werden, haben die Stadtwerke München zehn Kioske für künstlerische Projekte freigegeben. 
@@ -36,15 +83,156 @@ ganz ohne Eintrittspreise und Öffnungszeiten.
 Sie bieten Kunst für Eilige, Wartende,Umherirrende, Vorbeigehende und tragen somit das Kunsterlebnis mitten in die Gesellschaft. 
 In dem sich KUNST KIOSKE von einem klassischen musealen Ausstellungskonzept lösen, kommt es zu einer neuen Wertschätzung von Or- ten, die unbeachtet brachliegen.
 
-![Wegen Überfüllung Geschlossen]({{ site.baseurl }}/uploads/2024/02/kunstkioske1500px/TOB_0062.jpg)
+<picture>
+    <source
+    media="(min-width: 1200px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2024/02/kunstkioske1500px/TOB_0062.jpg?width=1500&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(min-width: 1200px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2024/02/kunstkioske1500px/TOB_0062.jpg?width=1500"
+    type="image/jpeg"
+    />
+    <source
+    media="(min-width: 768px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2024/02/kunstkioske1500px/TOB_0062.jpg?width=1200&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(min-width: 768px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2024/02/kunstkioske1500px/TOB_0062.jpg?width=1200"
+    type="image/jpeg"
+    />
+    <source
+    media="(max-width: 767px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2024/02/kunstkioske1500px/TOB_0062.jpg?width=800&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(max-width: 767px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2024/02/kunstkioske1500px/TOB_0062.jpg?width=800"
+    type="image/jpeg"
+    />
+    <source
+    media="(max-width: 576px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2024/02/kunstkioske1500px/TOB_0062.jpg?width=600&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(max-width: 576px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2024/02/kunstkioske1500px/TOB_0062.jpg?width=600"
+    type="image/jpeg"
+    />
+    <!-- Fallback image -->
+    <img
+    src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2024/02/kunstkioske1500px/TOB_0062.jpg?width=1200"
+    loading="lazy"
+    alt="Wegen Überfüllung Geschlossen"
+    />
+</picture>
 
 
 
-![Wegen Überfüllung Geschlossen]({{ site.baseurl }}/uploads/2024/02/kunstkioske1500px/DSCF8090 1.jpg)
+<picture>
+    <source
+    media="(min-width: 1200px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2024/02/kunstkioske1500px/DSCF8090 1.jpg?width=1500&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(min-width: 1200px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2024/02/kunstkioske1500px/DSCF8090 1.jpg?width=1500"
+    type="image/jpeg"
+    />
+    <source
+    media="(min-width: 768px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2024/02/kunstkioske1500px/DSCF8090 1.jpg?width=1200&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(min-width: 768px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2024/02/kunstkioske1500px/DSCF8090 1.jpg?width=1200"
+    type="image/jpeg"
+    />
+    <source
+    media="(max-width: 767px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2024/02/kunstkioske1500px/DSCF8090 1.jpg?width=800&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(max-width: 767px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2024/02/kunstkioske1500px/DSCF8090 1.jpg?width=800"
+    type="image/jpeg"
+    />
+    <source
+    media="(max-width: 576px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2024/02/kunstkioske1500px/DSCF8090 1.jpg?width=600&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(max-width: 576px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2024/02/kunstkioske1500px/DSCF8090 1.jpg?width=600"
+    type="image/jpeg"
+    />
+    <!-- Fallback image -->
+    <img
+    src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2024/02/kunstkioske1500px/DSCF8090 1.jpg?width=1200"
+    loading="lazy"
+    alt="Wegen Überfüllung Geschlossen"
+    />
+</picture>
 
 
 
-![Emanuel Mooner]({{ site.baseurl }}/uploads/2024/02/kunstkioske1500px/0127.jpg)
+<picture>
+    <source
+    media="(min-width: 1200px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2024/02/kunstkioske1500px/0127.jpg?width=1500&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(min-width: 1200px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2024/02/kunstkioske1500px/0127.jpg?width=1500"
+    type="image/jpeg"
+    />
+    <source
+    media="(min-width: 768px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2024/02/kunstkioske1500px/0127.jpg?width=1200&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(min-width: 768px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2024/02/kunstkioske1500px/0127.jpg?width=1200"
+    type="image/jpeg"
+    />
+    <source
+    media="(max-width: 767px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2024/02/kunstkioske1500px/0127.jpg?width=800&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(max-width: 767px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2024/02/kunstkioske1500px/0127.jpg?width=800"
+    type="image/jpeg"
+    />
+    <source
+    media="(max-width: 576px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2024/02/kunstkioske1500px/0127.jpg?width=600&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(max-width: 576px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2024/02/kunstkioske1500px/0127.jpg?width=600"
+    type="image/jpeg"
+    />
+    <!-- Fallback image -->
+    <img
+    src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2024/02/kunstkioske1500px/0127.jpg?width=1200"
+    loading="lazy"
+    alt="Emanuel Mooner"
+    />
+</picture>
 
 
 - - -

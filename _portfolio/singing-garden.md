@@ -20,9 +20,103 @@ Die vermeintlich erste, mit Solar-Akku betriebene Kunstausstellung Deutschlands 
 
 **VIDEO:**[](https://youtu.be/S1g9ni9-VoI)
 
-[![y]({{ site.baseurl }}/uploads/2020/09/Bildschirmfoto-2020-09-22-um-08.41.22.png)](https://youtu.be/S1g9ni9-VoI)
+[<picture>
+    <source
+    media="(min-width: 1200px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/09/Bildschirmfoto-2020-09-22-um-08.41.22.png?width=1500&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(min-width: 1200px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/09/Bildschirmfoto-2020-09-22-um-08.41.22.png?width=1500"
+    type="image/jpeg"
+    />
+    <source
+    media="(min-width: 768px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/09/Bildschirmfoto-2020-09-22-um-08.41.22.png?width=1200&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(min-width: 768px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/09/Bildschirmfoto-2020-09-22-um-08.41.22.png?width=1200"
+    type="image/jpeg"
+    />
+    <source
+    media="(max-width: 767px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/09/Bildschirmfoto-2020-09-22-um-08.41.22.png?width=800&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(max-width: 767px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/09/Bildschirmfoto-2020-09-22-um-08.41.22.png?width=800"
+    type="image/jpeg"
+    />
+    <source
+    media="(max-width: 576px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/09/Bildschirmfoto-2020-09-22-um-08.41.22.png?width=600&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(max-width: 576px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/09/Bildschirmfoto-2020-09-22-um-08.41.22.png?width=600"
+    type="image/jpeg"
+    />
+    <!-- Fallback image -->
+    <img
+    src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/09/Bildschirmfoto-2020-09-22-um-08.41.22.png?width=1200"
+    loading="lazy"
 
-![y]({{ site.baseurl }}/uploads/2020/09/P1020463-e1600757098911.jpg)
+    />
+</picture>](https://youtu.be/S1g9ni9-VoI)
+
+<picture>
+    <source
+    media="(min-width: 1200px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/09/P1020463-e1600757098911.jpg?width=1500&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(min-width: 1200px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/09/P1020463-e1600757098911.jpg?width=1500"
+    type="image/jpeg"
+    />
+    <source
+    media="(min-width: 768px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/09/P1020463-e1600757098911.jpg?width=1200&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(min-width: 768px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/09/P1020463-e1600757098911.jpg?width=1200"
+    type="image/jpeg"
+    />
+    <source
+    media="(max-width: 767px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/09/P1020463-e1600757098911.jpg?width=800&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(max-width: 767px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/09/P1020463-e1600757098911.jpg?width=800"
+    type="image/jpeg"
+    />
+    <source
+    media="(max-width: 576px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/09/P1020463-e1600757098911.jpg?width=600&force_format=webp"
+    type="image/webp"
+    />
+    <source
+    media="(max-width: 576px)"
+    srcset="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/09/P1020463-e1600757098911.jpg?width=600"
+    type="image/jpeg"
+    />
+    <!-- Fallback image -->
+    <img
+    src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/09/P1020463-e1600757098911.jpg?width=1200"
+    loading="lazy"
+
+    />
+</picture>
 
 **_[PODCAST mit Zukunftsforscher Michael Carl](https://dastorzururbanenzukunft.podigee.io/5-klang-und-raum-der-stadt)_**
 
