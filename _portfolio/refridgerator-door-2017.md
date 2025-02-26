@@ -17,13 +17,13 @@ by Easy!Upstream gallery, Munich
 
 _SOLD_
 
-{% include ./_includes/images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2017/08/upstream_eastIMG_8276-e1503090563595.jpg" alt="" %}
+{% include images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2017/08/upstream_eastIMG_8276-e1503090563595.jpg" alt="" %}
 
-{% include ./_includes/images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2017/08/upstream_eastIMG_8279-e1503090589326.jpg" alt="" %}
+{% include images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2017/08/upstream_eastIMG_8279-e1503090589326.jpg" alt="" %}
 
-{% include ./_includes/images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2017/08/upstream_eastIMG_8281-e1503090609429.jpg" alt="" %}
+{% include images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2017/08/upstream_eastIMG_8281-e1503090609429.jpg" alt="" %}
 
-{% include ./_includes/images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2017/08/upstream_eastIMG_8282.jpg" alt="" %}
+{% include images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2017/08/upstream_eastIMG_8282.jpg" alt="" %}
 
 <picture>
     <source

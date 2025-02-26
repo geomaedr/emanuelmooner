@@ -17,13 +17,13 @@ For the heavy use on playgrounds, he sampled the classic aluminium shovel and tu
 
 
 
-{% include ./_includes/images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2024/02/spielplatztoys1500px/P1030229.jpg" alt="" %}
+{% include images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2024/02/spielplatztoys1500px/P1030229.jpg" alt="" %}
 
- {% include ./_includes/images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2024/02/spielplatztoys1500px/P1030231.jpg" alt="" %}
+ {% include images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2024/02/spielplatztoys1500px/P1030231.jpg" alt="" %}
 
- {% include ./_includes/images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2024/02/spielplatztoys1500px/P1030232.jpg" alt="" %}
+ {% include images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2024/02/spielplatztoys1500px/P1030232.jpg" alt="" %}
 
- {% include ./_includes/images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2024/02/spielplatztoys1500px/P1030239.jpg" alt="" %}
+ {% include images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2024/02/spielplatztoys1500px/P1030239.jpg" alt="" %}
 
 
 More Info via mail or want to join the newsletter? please use the mail below;

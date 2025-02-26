@@ -18,10 +18,10 @@ Material: stone, glass, carpaint
 Size: ca 5x5x10cm  
 120 EUR
 
-{% include ./_includes/images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/04/AD0EA690-6399-42CC-81F4-E7B7B0C5E5AB.jpg" alt="" %}
+{% include images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/04/AD0EA690-6399-42CC-81F4-E7B7B0C5E5AB.jpg" alt="" %}
 
-{% include ./_includes/images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/04/EA6FEDA5-79C6-45F9-AAA1-A27A373CE026.jpg" alt="" %}
+{% include images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/04/EA6FEDA5-79C6-45F9-AAA1-A27A373CE026.jpg" alt="" %}
 
-{% include ./_includes/images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/04/EA6FEDA5-79C6-45F9-AAA1-A27A373CE026.jpg" alt="" %}
+{% include images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/04/EA6FEDA5-79C6-45F9-AAA1-A27A373CE026.jpg" alt="" %}
 
 Munich artist Emanuel Mooner / Neon Artist, Neon Art

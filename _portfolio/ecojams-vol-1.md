@@ -24,12 +24,12 @@ Material: glass, wood, sand, stone, plastic
 Size: 30x30x40cm  
 900 EUR
 
-{% include ./_includes/images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/04/IMG_6617_web.jpg" alt="" %}
+{% include images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/04/IMG_6617_web.jpg" alt="" %}
 
-{% include ./_includes/images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/04/IMG_6615_web.jpg" alt="" %}
+{% include images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/04/IMG_6615_web.jpg" alt="" %}
 
-{% include ./_includes/images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/04/IMG_6614_web.jpg" alt="" %}
+{% include images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/04/IMG_6614_web.jpg" alt="" %}
 
-{% include ./_includes/images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/04/IMG_6613_web.jpg" alt="" %}
+{% include images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/04/IMG_6613_web.jpg" alt="" %}
 
 Munich artist Emanuel Mooner / Neon Artist, Neon Art

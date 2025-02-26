@@ -17,15 +17,15 @@ size: 180 x 6500cm
 
 This work will be shown at Stadtmuseum München after their re-opening.
 
-{% include ./_includes/images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2016/02/Teufelsrad-1024x768.jpg" alt="" %}
+{% include images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2016/02/Teufelsrad-1024x768.jpg" alt="" %}
 
-{% include ./_includes/images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2016/02/Teufelsrad-2-1024x768.jpg" alt="" %}
+{% include images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2016/02/Teufelsrad-2-1024x768.jpg" alt="" %}
 
-{% include ./_includes/images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2016/02/IMG_0206_web-1024x768.jpg" alt="" %}
+{% include images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2016/02/IMG_0206_web-1024x768.jpg" alt="" %}
 
-{% include ./_includes/images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2016/02/8M4A1255_web-1024x683.jpg" alt="" %}
+{% include images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2016/02/8M4A1255_web-1024x683.jpg" alt="" %}
 
-{% include ./_includes/images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2016/02/8M4A1265_web-1024x683.jpg" alt="" %}
+{% include images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2016/02/8M4A1265_web-1024x683.jpg" alt="" %}
 
 
 <span style="height: 30px; display: block;"></span>

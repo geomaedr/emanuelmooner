@@ -21,14 +21,14 @@ Material: powdercoated metal, neon system incl controller
 Size: 60x90cm  
 price on request (please use the mail below;)
 
- {% include ./_includes/images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/11/P1020553.jpg" alt="" %}
+ {% include images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/11/P1020553.jpg" alt="" %}
 
- {% include ./_includes/images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/11/P1020559.jpg" alt="" %}
+ {% include images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/11/P1020559.jpg" alt="" %}
 
- {% include ./_includes/images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/11/P1020556.jpg" alt="" %}
+ {% include images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/11/P1020556.jpg" alt="" %}
 
- {% include ./_includes/images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/11/P1020555.jpg" alt="" %}
+ {% include images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/11/P1020555.jpg" alt="" %}
 
- {% include ./_includes/images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/11/P1020554.jpg" alt="" %}
+ {% include images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/11/P1020554.jpg" alt="" %}
 
 (C) Munich artist Emanuel Mooner / Neon Artist, Neon Art

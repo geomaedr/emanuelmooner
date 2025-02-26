@@ -17,9 +17,9 @@ wood, carpet, misc. refugee litter, custom made neonglass
 
 _SOLD_
 
-{% include ./_includes/images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2017/11/IMG_7204.jpg" alt="" %}
+{% include images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2017/11/IMG_7204.jpg" alt="" %}
 
-{% include ./_includes/images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2017/11/IMG_7202-e1509964415498.jpg" alt="" %}
+{% include images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2017/11/IMG_7202-e1509964415498.jpg" alt="" %}
 
 <video width="800" height="450" controls>
   <source src="{{ site.baseurl }}/uploads/2024/02/outdoor-fire.mp4" type="video/mp4">

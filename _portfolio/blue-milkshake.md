@@ -19,12 +19,12 @@ Material: powdercoated metal, neon system incl controller
 Size: 60x90cm  
 price on request (please use the mail below;)
 
-{% include ./_includes/images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/11/P1020651-Kopie.jpg" alt="" %}
+{% include images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/11/P1020651-Kopie.jpg" alt="" %}
 
-{% include ./_includes/images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/11/P1020652-Kopie.jpg" alt="" %}
+{% include images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/11/P1020652-Kopie.jpg" alt="" %}
 
-{% include ./_includes/images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/11/P1020646-Kopie.jpg" alt="" %}
+{% include images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/11/P1020646-Kopie.jpg" alt="" %}
 
-{% include ./_includes/images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/11/P1020644-Kopie.jpg" alt="" %}
+{% include images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/11/P1020644-Kopie.jpg" alt="" %}
 
 (C) Munich artist Emanuel Mooner / Neon Artist, Neon Art

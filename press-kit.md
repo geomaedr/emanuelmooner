@@ -44,6 +44,6 @@ Instagram: [@emanuelmooner](https://www.instagram.com/emanuelmooner/) [@dompteur
 
 PRESS PHOTOS (copyright Emanuel Mooner 2020)
 
-{% include ./_includes/images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/07/Baugeld-30.jpg" alt="" %}
+{% include images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/07/Baugeld-30.jpg" alt="" %}
 
 Munich artist Emanuel Mooner / Neon Artist, Neon Art

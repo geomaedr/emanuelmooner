@@ -107,7 +107,7 @@ No money to buy art? Not enough space to own art? You can rent my art! Write an 
 
 [LINK!](https://www.emanuelmooner.com/portfolio/reinwaschung)
 
-{% include ./_includes/images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/01/1024px-Abbazia_di_Valvisciolo_15-e1654242603736.jpg" alt="" %}
+{% include images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/01/1024px-Abbazia_di_Valvisciolo_15-e1654242603736.jpg" alt="" %}
 
 
 —————————————————————
@@ -127,7 +127,7 @@ No money to buy art? Not enough space to own art? You can rent my art! Write an 
 
 **31.03 – 02.04.2022 im Studio D40**
 
-{% include ./_includes/images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/01/IMG_flyer-e1648794178868.jpeg" alt="" %}
+{% include images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/01/IMG_flyer-e1648794178868.jpeg" alt="" %}
 
 *Caption: bty*
 

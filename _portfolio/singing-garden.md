@@ -20,7 +20,7 @@ Die vermeintlich erste, mit Solar-Akku betriebene Kunstausstellung Deutschlands 
 
 **VIDEO:**[](https://youtu.be/S1g9ni9-VoI)
 
-[{% include ./_includes/images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/09/Bildschirmfoto-2020-09-22-um-08.41.22.png" alt="" %}
+[{% include images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/09/Bildschirmfoto-2020-09-22-um-08.41.22.png" alt="" %}
 
 **_[PODCAST mit Zukunftsforscher Michael Carl](https://dastorzururbanenzukunft.podigee.io/5-klang-und-raum-der-stadt)_**
 

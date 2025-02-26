@@ -20,8 +20,8 @@ The cans were sandblasted and powdercoated.
 
 
 
-{% include ./_includes/images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2024/02/candles1500px/P1030306.jpg" alt="" %}
+{% include images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2024/02/candles1500px/P1030306.jpg" alt="" %}
 
- {% include ./_includes/images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2024/02/candles1500px/P1030318.jpg" alt="" %}
+ {% include images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2024/02/candles1500px/P1030318.jpg" alt="" %}
 
 
