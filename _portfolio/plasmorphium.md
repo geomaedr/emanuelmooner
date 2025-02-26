@@ -18,7 +18,7 @@ moving kinetic object
 
 price 1200 EUR
 
-{% include ./_includes/images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2018/10/DSC_0156.jpg" alt="Crash Door" %}
+{% include /_includes/images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2018/10/DSC_0156.jpg" alt="Crash Door" %}
 
 <picture>
     <source
