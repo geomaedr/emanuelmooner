@@ -674,6 +674,7 @@ table td{
 	display: block;
 }
 .total-overlay-sticky{
+    display: none;
 	position: fixed;
 	top: -100vh;
 	opacity: 0;
