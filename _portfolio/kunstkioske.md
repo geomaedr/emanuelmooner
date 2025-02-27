@@ -53,7 +53,8 @@ https://www.br.de/nachrichten/kultur/kunstkioske-in-muenchen-leerstand-als-leinw
 
 
 
-<iframe width="100%" height="450" scrolling="no" frameborder="no" src="(https://www.sueddeutsche.de/muenchen/muenchen-u-bahn-kiosk-kunst-1.6247078?reduced=true)
+https://www.sueddeutsche.de/muenchen/muenchen-u-bahn-kiosk-kunst-1.6247078?reduced=true
+
 More Info via mail or want to join the newsletter? please use the mail below;
 
 
