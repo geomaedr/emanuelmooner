@@ -69,12 +69,10 @@ p{
 a, a:visited, a:active, a:focus{
 	color: #404040;
 	text-decoration: none;
-	outline: 0;
 	display: inline-block;
 }
 
 a:hover{
-	outline: 0;
 	color: #aaaaaa;
 	text-decoration: none;
 }
