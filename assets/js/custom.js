@@ -68,6 +68,7 @@ jQuery(document).ready(function ($) {
     /* TOTAL FIXED */
     $('.total-overlay-trigger').click(function () {
         $('.total-overlay-sticky').animate({
+            display: block,
             top: '0px',
             opacity: 1
         }, 800);
@@ -91,6 +92,9 @@ jQuery(document).ready(function ($) {
             top: '-100vh',
             opacity: 0
         }, 800, function () {
+            $('.total-overlay-sticky').css({
+                display: none
+            });
             $('.total-overlay-sticky #navigation .nav.navbar-nav > li > a').css({
                 opacity: 0,
                 left: '-50px'
