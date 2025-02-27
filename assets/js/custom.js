@@ -67,14 +67,13 @@ jQuery(document).ready(function ($) {
 
     /* TOTAL FIXED */
     $('.total-overlay-trigger').click(function () {
+        $('.total-overlay-sticky').css({
+            display: "block"
+        });
         $('.total-overlay-sticky').animate({
             top: '0px',
             opacity: 1
-        }, 800, function () {
-            $('.total-overlay-sticky').css({
-                display: "block"
-            });
-        });
+        }, 800);
         setTimeout(function () {
             var delay = 200;
             $('.total-overlay-sticky #navigation .nav.navbar-nav > li > a').each(function () {
