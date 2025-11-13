@@ -2,7 +2,7 @@
 title: Neon Hubcap
 layout: portfolio
 subtext: 
-image: "/tinyjpgs/x-P1020579 Kopie.JPG"
+image: "/uploads/2020/11/P1020580-Kopie.jpg?tr=w-1500,f-webp"
 col_size: 5
 style: portfolio
 portfolio_nr: 40
