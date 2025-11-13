@@ -8,4 +8,4 @@ col_size: 7
 style: portfolio
 ---
 
-{% include images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2016/02/Today-Will-Be-A-Good-Day.jpg" alt="" %}
+{% include images.html src="https://ik.imagekit.io/ujue0e3z4k/uploads/2016/02/Today-Will-Be-A-Good-Day.jpg" alt="" %}

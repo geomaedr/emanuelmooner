@@ -21,9 +21,9 @@ This work was Mooner´s first public response to the russian-ukrainian conflict 
 
 
 
-{% include images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2024/02/barbiewire1500px/IMG_3141.jpg" alt="" %}
+{% include images.html src="https://ik.imagekit.io/ujue0e3z4k/uploads/2024/02/barbiewire1500px/IMG_3141.jpg" alt="" %}
 
- {% include images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2024/02/barbiewire1500px/IMG_3142.jpg" alt="" %}
+ {% include images.html src="https://ik.imagekit.io/ujue0e3z4k/uploads/2024/02/barbiewire1500px/IMG_3142.jpg" alt="" %}
 
 
 

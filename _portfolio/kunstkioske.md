@@ -27,7 +27,7 @@ wie sie das geschafft hat?
 Durch die kurze Notiz „Wegen Überfüllung geschlossen“ am Eröffnungsabend ihres ersten Clubs -
 Mooners Arbeit ist ein Glanzstück der umgekehrten Psychologie.
 
-{% include images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2024/02/kunstkioske1500px/DSCF8090 1.jpg" alt="" %}
+{% include images.html src="https://ik.imagekit.io/ujue0e3z4k/uploads/2024/02/kunstkioske1500px/DSCF8090 1.jpg" alt="" %}
 
 Ursprünglich als kommerzielle Orte der Bedarfsdeckung konzipiert, stehen inzwischen Kioske an zahlreichen Münchner U-Bahnhöfen aufgrund geplanter Bautätigkeiten, sowie gestiegener Sicherheits- und Brandschutzanforderungen, leer. 
 Bis die Sanierungen an den jeweiligen Standorten ausgeführt werden, haben die Stadtwerke München zehn Kioske für künstlerische Projekte freigegeben. 
@@ -36,15 +36,15 @@ ganz ohne Eintrittspreise und Öffnungszeiten.
 Sie bieten Kunst für Eilige, Wartende,Umherirrende, Vorbeigehende und tragen somit das Kunsterlebnis mitten in die Gesellschaft. 
 In dem sich KUNST KIOSKE von einem klassischen musealen Ausstellungskonzept lösen, kommt es zu einer neuen Wertschätzung von Or- ten, die unbeachtet brachliegen.
 
-{% include images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2024/02/kunstkioske1500px/TOB_0062.jpg" alt="" %}
+{% include images.html src="https://ik.imagekit.io/ujue0e3z4k/uploads/2024/02/kunstkioske1500px/TOB_0062.jpg" alt="" %}
 
 
 
-{% include images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2024/02/kunstkioske1500px/DSCF8090 1.jpg" alt="" %}
+{% include images.html src="https://ik.imagekit.io/ujue0e3z4k/uploads/2024/02/kunstkioske1500px/DSCF8090 1.jpg" alt="" %}
 
 
 
-{% include images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2024/02/kunstkioske1500px/0127.jpg" alt="" %}
+{% include images.html src="https://ik.imagekit.io/ujue0e3z4k/uploads/2024/02/kunstkioske1500px/0127.jpg" alt="" %}
 
 
 - - -

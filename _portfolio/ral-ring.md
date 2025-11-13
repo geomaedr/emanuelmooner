@@ -18,12 +18,12 @@ Material: oxidized metal plate, spraypaint RAL 2005
 Size: 55x55cm  
 S O L D
 
-{% include images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/11/P1020585-Kopie.jpg" alt="" %}
+{% include images.html src="https://ik.imagekit.io/ujue0e3z4k/uploads/2020/11/P1020585-Kopie.jpg" alt="" %}
 
-{% include images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/11/P1020617-Kopie.jpg" alt="" %}
+{% include images.html src="https://ik.imagekit.io/ujue0e3z4k/uploads/2020/11/P1020617-Kopie.jpg" alt="" %}
 
-{% include images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/11/P1020612-Kopie.jpg" alt="" %}
+{% include images.html src="https://ik.imagekit.io/ujue0e3z4k/uploads/2020/11/P1020612-Kopie.jpg" alt="" %}
 
-{% include images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/11/P1020597-Kopie.jpg" alt="" %}
+{% include images.html src="https://ik.imagekit.io/ujue0e3z4k/uploads/2020/11/P1020597-Kopie.jpg" alt="" %}
 
 (C) Munich artist Emanuel Mooner / Neon Artist, Neon Art

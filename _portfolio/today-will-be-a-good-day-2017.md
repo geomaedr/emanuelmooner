@@ -17,15 +17,15 @@ size: 600x400cm
 Abandoned hospital chapel at  
 Innovationsquartier, Murnau
 
-{% include images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2017/08/IMG_1334_web.jpg" alt="" %}
+{% include images.html src="https://ik.imagekit.io/ujue0e3z4k/uploads/2017/08/IMG_1334_web.jpg" alt="" %}
 
-{% include images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2017/08/IMG_1339_web.jpg" alt="" %}
+{% include images.html src="https://ik.imagekit.io/ujue0e3z4k/uploads/2017/08/IMG_1339_web.jpg" alt="" %}
 
-{% include images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2017/08/IMG_1343_web.jpg" alt="" %}
+{% include images.html src="https://ik.imagekit.io/ujue0e3z4k/uploads/2017/08/IMG_1343_web.jpg" alt="" %}
 
-{% include images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2017/08/IMG_1346_web.jpg" alt="" %}
+{% include images.html src="https://ik.imagekit.io/ujue0e3z4k/uploads/2017/08/IMG_1346_web.jpg" alt="" %}
 
-{% include images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2017/08/IMG_1350_web.jpg" alt="" %}
+{% include images.html src="https://ik.imagekit.io/ujue0e3z4k/uploads/2017/08/IMG_1350_web.jpg" alt="" %}
 
 
 <video width="800" height="450" controls>

@@ -16,9 +16,9 @@ portfolio_nr: 55
 
 The exhibition consists of a site-specific installation and a series of sculptures made of marine plastic debris, through which the artist reflects on environmental sustainability choices in our daily life, especially in light of the water crisis that affects all of Europe.
 
-{% include images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2024/02/reinwaschung1500px/P1030298.jpg" alt="" %}
+{% include images.html src="https://ik.imagekit.io/ujue0e3z4k/uploads/2024/02/reinwaschung1500px/P1030298.jpg" alt="" %}
 
-{% include images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2024/02/reinwaschung1500px/P1030276.jpg" alt="" %}
+{% include images.html src="https://ik.imagekit.io/ujue0e3z4k/uploads/2024/02/reinwaschung1500px/P1030276.jpg" alt="" %}
 
 The term “ablution” (reinwaschung in German) is used in Catholic liturgy and in several religions - such as Judaic, Muslim or Hindu religion - to indicate a ceremonial act of washing one's body with wather to achieve spiritual purification. 
 

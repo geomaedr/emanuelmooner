@@ -8,6 +8,6 @@ col_size: 7
 style: portfolio
 ---
 
-{% include images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2016/02/Zeppelin.jpg" alt="" %}
+{% include images.html src="https://ik.imagekit.io/ujue0e3z4k/uploads/2016/02/Zeppelin.jpg" alt="" %}
 
 Munich artist Emanuel Mooner / Neon Artist, Neon Art

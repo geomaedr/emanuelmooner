@@ -28,12 +28,12 @@ Er geht dem Grenzbereich der Hörbarkeit nach, gepaart mit dem Spürsinn für di
 Your browser does not support the video tag.
 </video>
 
-{% include images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2019/04/IMG_2990.jpg" alt="" %}
+{% include images.html src="https://ik.imagekit.io/ujue0e3z4k/uploads/2019/04/IMG_2990.jpg" alt="" %}
 
-{% include images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2019/04/IMG_2992.jpg" alt="" %}
+{% include images.html src="https://ik.imagekit.io/ujue0e3z4k/uploads/2019/04/IMG_2992.jpg" alt="" %}
 
-{% include images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2019/04/IMG_2993.jpg" alt="" %}
+{% include images.html src="https://ik.imagekit.io/ujue0e3z4k/uploads/2019/04/IMG_2993.jpg" alt="" %}
 
-{% include images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2019/04/sz_sots_freimann.jpg" alt="" %}
+{% include images.html src="https://ik.imagekit.io/ujue0e3z4k/uploads/2019/04/sz_sots_freimann.jpg" alt="" %}
 
 Munich artist Emanuel Mooner / Neon Artist, Neon Art

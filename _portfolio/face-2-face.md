@@ -8,9 +8,9 @@ col_size: 6
 style: portfolio
 ---
 
-{% include images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2016/02/Face-2-Face-2-1024x681.jpg" alt="" %}
+{% include images.html src="https://ik.imagekit.io/ujue0e3z4k/uploads/2016/02/Face-2-Face-2-1024x681.jpg" alt="" %}
 
-{% include images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2016/02/Face-2-Face-1024x685.jpg" alt="" %}
+{% include images.html src="https://ik.imagekit.io/ujue0e3z4k/uploads/2016/02/Face-2-Face-1024x685.jpg" alt="" %}
 
 
 Munich artist Emanuel Mooner / Neon Artist, Neon Art

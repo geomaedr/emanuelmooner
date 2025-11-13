@@ -23,11 +23,11 @@ Erschienen in der letzten Ausgabe Die Beute im Jahr 1999, ID Verlag, Berlin
 
 ————————————————————
 
-{% include images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/01/beute1-1.jpeg" alt="" %}
+{% include images.html src="https://ik.imagekit.io/ujue0e3z4k/uploads/2020/01/beute1-1.jpeg" alt="" %}
 
-{% include images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/01/beute1-2.jpeg" alt="" %}
+{% include images.html src="https://ik.imagekit.io/ujue0e3z4k/uploads/2020/01/beute1-2.jpeg" alt="" %}
 
-{% include images.html src="https://cmaqjisqoa.cloudimg.io/_mnr_bckt/uploads/2020/01/beute1-3.jpeg" alt="" %}
+{% include images.html src="https://ik.imagekit.io/ujue0e3z4k/uploads/2020/01/beute1-3.jpeg" alt="" %}
 
 ————————————————————
 
