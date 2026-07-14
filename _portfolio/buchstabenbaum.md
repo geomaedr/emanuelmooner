@@ -5,7 +5,7 @@ subtext: Kunst München Kunst am bau Neonart neonkunst Emanuel Mooner Siegenburg
 image: "/uploads/2018/10/DSC_0050-1_tiny.jpg"
 col_size: 12
 style: portfolio
-portfolio_nr: 27
+portfolio_nr: 58
 ---
 
 Buchstabenbaum  
